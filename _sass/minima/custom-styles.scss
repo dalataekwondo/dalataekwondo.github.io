@@ -1,0 +1,33 @@
+:root {
+    --chong: #0047a0;
+    --hong: #cd2e3a;
+    --font-family: $base-font-family;
+    --font-size: 0.9rem;
+}
+
+body {
+    overflow-y: overlay;
+    font-family: $base-font-family;
+}
+
+.site-header .wrapper {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-auto-flow: column;
+    align-items: center;
+}
+
+.trigger a.page-link {
+    color: var(--chong);
+    // font-weight: bold;
+    font-family: $base-font-family;
+}
+
+.trigger a.page-link.active {
+    color: var(--hong) !important;
+}
+
+#logo {
+    margin: 1rem;
+    width: 5rem;
+}

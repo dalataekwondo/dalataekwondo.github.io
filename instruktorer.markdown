@@ -1,0 +1,13 @@
+---
+layout: page
+title: Instruktörer
+permalink: /instruktorer/
+---
+
+| Titel         | Namn             | Grad  |
+| ------------- | ---------------- | ----- |
+| Kwan jang-nim | Reza Abrishami   | 7 Dan |
+| Sabom-nim     | Lallas Sandström | 4 Dan |
+| Kyosa-nim     | Henrik Englund   | 2 Dan |
+| Kyosa-nim     | Fredrik Lorenz   | 2 Dan |
+| Kyosa-nim     | Melina Abrishami | 2 Dan |
