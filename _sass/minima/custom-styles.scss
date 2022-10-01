@@ -7,19 +7,29 @@
 
 body {
     overflow-y: overlay;
-    font-family: $base-font-family;
 }
 
 .site-header .wrapper {
+    margin-top: 1rem;
+    // display: grid;
+    // grid-template-columns: max-content 1fr;
+    // grid-auto-flow: column;
+}
+
+.site-header .header-title {
     display: grid;
     grid-template-columns: max-content 1fr;
-    grid-auto-flow: column;
     align-items: center;
+    gap: 1rem;
+}
+
+.site-header .wrapper .site-nav {
+    justify-self: end;
 }
 
 .trigger a.page-link {
     color: var(--chong);
-    // font-weight: bold;
+    font-weight: bold;
     font-family: $base-font-family;
 }
 
@@ -28,6 +38,9 @@ body {
 }
 
 #logo {
-    margin: 1rem;
     width: 5rem;
+}
+
+.pre-line {
+    white-space: pre-line;
 }

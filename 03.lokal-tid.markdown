@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lokal & tid
+title: Lokal, tid & pris
 permalink: /lokal-tid/
 ---
 
