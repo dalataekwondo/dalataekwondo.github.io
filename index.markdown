@@ -1,9 +1,8 @@
 ---
 layout: home
+title: Välkommen till Dala Taekwondo Akademi!
 nonav: true
 ---
-
-# Välkommen till Dala Taekwondo Akademi!
 
 Vi tränar regelbundet i **Maserhallens kampsportslokal** i Borlänge
 
