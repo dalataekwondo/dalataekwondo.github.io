@@ -4,17 +4,17 @@ title: Föreningen
 permalink: /foreningen/
 ---
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
+| ---                  | ---                                                                        |
+| -------------------- | -------------------------------------------------------------------------- |
+| Namn                 | Dala Taekwondo Akademi                                                     |
+| Bildad               | 1996-11-14                                                                 |
+| Föreningsnummer      | 33252-68                                                                   |
+| _Postadress_         | Reza Abrishami, Hägerstigen 23 <br/> 78450 Borlänge                        |
+| Telefon              | [0243-22 46 24](tel:0243224624)                                            |
+| Mobil                | [070-768 48 40](tel:0707684840)                                            |
+| E-post               | [info@dalataekwondo.com](mailto:info@dalataekwondo.com){:target="\_blank"} |
+| Hemsida              | [http://www.dalataekwondo.com](http://www.dalataekwondo.com)               |
+| PlusGiro             | 922115-1                                                                   |
+| Swish                | 1237684840                                                                 |
+| Organisationsnummer  | 802457-1682                                                                |
+| Föreningens hemsidor | Dala Taekwondo Akademi                                                     |

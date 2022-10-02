@@ -5,8 +5,52 @@
     --font-size: 0.9rem;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     overflow-y: overlay;
+}
+
+a,
+a:visited {
+    color: var(--chong);
+}
+
+footer {
+    margin-bottom: 5rem;
+}
+
+#scroll-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 3rem;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 4rem;
+    width: 4rem;
+    padding-bottom: .37rem;
+    font-size: 3rem;
+    line-height: 0;
+    box-sizing: border-box;
+    border-radius: 100%;
+    opacity: 0;
+    text-decoration: none;
+    transition-delay: .1s;
+    transition-duration: .2s;
+    pointer-events: none;
+    transform: rotate(270deg);
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: var(--hong) !important;
+}
+
+#scroll-to-top.show {
+    opacity: 1;
+    pointer-events: unset;
 }
 
 .site-header .wrapper {
@@ -34,7 +78,7 @@ body {
 }
 
 .trigger a.page-link.active {
-    color: var(--hong) !important;
+    color: var(--hong);
 }
 
 #logo {
@@ -43,4 +87,83 @@ body {
 
 .pre-line {
     white-space: pre-line;
+}
+
+.post-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem 2rem;
+    font-weight: bold;
+}
+
+.belt-color {
+    line-height: 0.8rem;
+    width: 5rem;
+    height: 1.4rem;
+    border: 1px solid black;
+    font-weight: bolder;
+    display: flex;
+    gap: 3px;
+    padding-inline: 0.5rem;
+    box-sizing: border-box;
+}
+
+.belt-color * {
+    display: block;
+    width: 3px;
+    height: 100%;
+}
+
+.belt-color:is(.blue, .green) {
+    padding-inline: 0;
+    /* align-items: end; */
+}
+
+.belt-color:is(.blue, .green) * {
+    width: 100%;
+    height: 50%;
+}
+
+.belt-color.white {
+    background-color: white;
+}
+
+.belt-color.yellow {
+    background-color: yellow;
+}
+
+.belt-color.green {
+    background-color: green;
+}
+
+.belt-color.green * {
+    background-color: var(--chong);
+}
+
+.belt-color.blue {
+    background-color: var(--chong);
+}
+
+.belt-color.blue * {
+    background-color: var(--hong);
+}
+
+.belt-color.red {
+    background-color: var(--hong);
+}
+
+.belt-color.red * {
+    background-color: black;
+}
+
+.belt-color.black {
+    background-color: black;
+}
+
+.belt-color.black * {
+    background-color: gold;
+}
+
+img[src$='#qr'] {
+    width: 200px;
 }
