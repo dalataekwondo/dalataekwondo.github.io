@@ -19,23 +19,39 @@ Hösttermin 2022: 16/8 - 16/12
 
 #### Barn 5-9 år
 
-| Dag                                        | Tid           | Grupp                   | Typ                  |
-| ------------------------------------------ | ------------- | ----------------------- | -------------------- |
-| Tisdagar                                   | 17:00 - 18:00 | Barngrupper             | Barnträning          |
-| Fredagar                                   | 17:00 - 18:00 | Barngrupper             | Barnträning          |
-| **Nybörjare**                              |
-| Tisdagar                                   | 17:00 - 18:00 | Nybörjargrupper         | Traditionell träning |
-| Fredagar                                   | 17:00 - 18:00 | Nybörjargrupper         | Mittsträning         |
-| **Ungdom 10-13 år- färgbältare**           |
-| Måndagar                                   | 17:00 - 18:00 | Ungdomsgrupper          | Traditionell träning |
-| Tisdagar                                   | 18:00 - 19:00 | Ungdomsgrupper          | Västträning          |
-| Fredagar                                   | 18:00 - 19:00 | Ungdomsgrupper          | Mittsträning         |
-| **Junior- och Seniorgrupper- färgbältare** |
-| Måndagar                                   | 17:00- 18:30  | Junior- & Seniorgrupper | Traditionell träning |
-| Tisdagar                                   | 18:00- 19:30  | Junior- & Seniorgrupper | Västträning          |
-| Fredagar                                   | 18:00- 19:30  | Junior- & Seniorgrupper | Mittsträning         |
-| **Extra träning**                          |
-| Torsdagar                                  | 18:00- 19:30  | Junior- & Seniorgrupp2  | Valfri träning       |
+| Dag      | Tid           | Grupp       | Typ         |
+| -------- | ------------- | ----------- | ----------- |
+| Tisdagar | 17:00 - 18:00 | Barngrupper | Barnträning |
+| Fredagar | 17:00 - 18:00 | Barngrupper | Barnträning |
+
+#### Nybörjare
+
+| Dag      | Tid           | Grupp           | Typ                  |
+| -------- | ------------- | --------------- | -------------------- |
+| Tisdagar | 17:00 - 18:00 | Nybörjargrupper | Traditionell träning |
+| Fredagar | 17:00 - 18:00 | Nybörjargrupper | Mittsträning         |
+
+#### Ungdom 10-13 år- färgbältare
+
+| Dag      | Tid           | Grupp          | Typ                  |
+| -------- | ------------- | -------------- | -------------------- |
+| Måndagar | 17:00 - 18:00 | Ungdomsgrupper | Traditionell träning |
+| Tisdagar | 18:00 - 19:00 | Ungdomsgrupper | Västträning          |
+| Fredagar | 18:00 - 19:00 | Ungdomsgrupper | Mittsträning         |
+
+#### Junior- och Seniorgrupper- färgbältare
+
+| Dag      | Tid          | Grupp                   | Typ                  |
+| -------- | ------------ | ----------------------- | -------------------- |
+| Måndagar | 17:00- 18:30 | Junior- & Seniorgrupper | Traditionell träning |
+| Tisdagar | 18:00- 19:30 | Junior- & Seniorgrupper | Västträning          |
+| Fredagar | 18:00- 19:30 | Junior- & Seniorgrupper | Mittsträning         |
+
+#### Extra träning
+
+| Dag       | Tid          | Grupp                   | Typ            |
+| --------- | ------------ | ----------------------- | -------------- |
+| Torsdagar | 18:00- 19:30 | Junior- & Seniorgrupp 2 | Valfri träning |
 
 ### Pris {#pris}
 
@@ -45,20 +61,24 @@ Det är inte dyrt.
 Träningsavgiften är beroende av föreningens egen kostnad.
 Du får samtidigt möjlighet till ett flertal tränare ledda träningstillfällen i veckan.
 
-| Grupp                   | Pris                                                                                                     |
-| ----------------------- | -------------------------------------------------------------------------------------------------------- |
-| Barngrupp               | 800 kr / termin                                                                                          |
-| Nybörjargrupp           | 800 kr / termin                                                                                          |
-| Ungdomsgrupp            | 900 kr / termin                                                                                          |
-| Junior- & Seniorgrupper | 900 kr / termin                                                                                          |
-| Junior- & Seniorgrupp 2 | 1100 kr / termin                                                                                         |
-| Familjrabatt            | 100 kr / termin, gäller den andra familjmedlemmen<br/>200 kr / termin gäller de övriga familjmedlemmarna |
-| Medlemsavgift           | 100 kr / år                                                                                              |
+| Grupp                   | Pris                                                  |
+| ----------------------- | ----------------------------------------------------- |
+| Barngrupp               | 800 kr / termin                                       |
+| Nybörjargrupp           | 800 kr / termin                                       |
+| Ungdomsgrupp            | 900 kr / termin                                       |
+| Junior- & Seniorgrupper | 900 kr / termin                                       |
+| Junior- & Seniorgrupp 2 | 1100 kr / termin                                      |
+| Familjrabatt            | 100 kr / termin, gäller den andra familjmedlemmen     |
+| ^^                      | ^^ 200 kr / termin gäller de övriga familjmedlemmarna |
+| ^^                      | ^^                                                    |
+| Medlemsavgift           | 100 kr / år                                           |
+
+#### Betalningsmetoder
 
 PlusGiro: 922115-1
 
 Swish: 123-768 48 40
 
-#### QR
-
 ![QR-kod](/assets/qr.svg#qr)
+
+_QR-kod för Swish_
