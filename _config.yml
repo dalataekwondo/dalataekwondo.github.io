@@ -32,6 +32,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: dala_tkd
 github_username: dalataekwondo
+facebook_username: "100057487928855"
+facebook_displayname: facebook
 
 # Build settings
 theme: minima

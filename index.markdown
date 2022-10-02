@@ -2,5 +2,8 @@
 layout: home
 ---
 
-__Borlänge, Maserhallens Kampsportlokal__  
-__Hösttermin 2022: 16/8 - 16/12__  
+# Välkommen till Dala Taekwondo Akademi!
+
+Vi tränar regelbundet i **Maserhallens kampsportslokal** i Borlänge
+
+Höstterminen 2022 pågår under **16/8 - 16/12**
