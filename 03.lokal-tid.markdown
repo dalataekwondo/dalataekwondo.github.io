@@ -61,17 +61,15 @@ Det är inte dyrt.
 Träningsavgiften är beroende av föreningens egen kostnad.
 Du får samtidigt möjlighet till ett flertal tränare ledda träningstillfällen i veckan.
 
-| Grupp                   | Pris                                                  |
-| ----------------------- | ----------------------------------------------------- |
-| Barngrupp               | 800 kr / termin                                       |
-| Nybörjargrupp           | 800 kr / termin                                       |
-| Ungdomsgrupp            | 900 kr / termin                                       |
-| Junior- & Seniorgrupper | 900 kr / termin                                       |
-| Junior- & Seniorgrupp 2 | 1100 kr / termin                                      |
-| Familjrabatt            | 100 kr / termin, gäller den andra familjmedlemmen     |
-| ^^                      | ^^ 200 kr / termin gäller de övriga familjmedlemmarna |
-| ^^                      | ^^                                                    |
-| Medlemsavgift           | 100 kr / år                                           |
+| Grupp                   | Pris                                                                                                      |
+| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| Barngrupp               | 800 kr / termin                                                                                           |
+| Nybörjargrupp           | 800 kr / termin                                                                                           |
+| Ungdomsgrupp            | 900 kr / termin                                                                                           |
+| Junior- & Seniorgrupper | 900 kr / termin                                                                                           |
+| Junior- & Seniorgrupp 2 | 1100 kr / termin                                                                                          |
+| Familjrabatt            | 100 kr / termin, gäller den andra familjmedlemmen <br/>200 kr / termin gäller de övriga familjmedlemmarna |
+| Medlemsavgift           | 100 kr / år                                                                                               |
 
 #### Betalningsmetoder
 
