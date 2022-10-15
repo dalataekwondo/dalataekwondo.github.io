@@ -11,9 +11,7 @@ permalink: /taekwondo/
 [Tävlingsregler](#tavlingsregler)
 [Viktklasser](#viktklasser)
 [Bältesfärger](#baltesfarger)
-[Bältesfärgers betydelse](#baltesbetydelse)
-[Terminologi](#terminologi)
-[Dala TKD Elevens Ed](#klubbens-ed)
+[Klubbens ed](#klubbens-ed)
 [Poomsae](#poomsae)
 
 ## Taekwondo {#taekwondo}
@@ -22,7 +20,7 @@ Taekwondo är namnet på ett självförsvarssystem, som förädlats till en kamp
 djupaste tradition i den koreanska historien i åtminstone 2000 år. Kännetecknet för taekwondo är
 användandet av händer och fötter i kampen för att hålla motståndaren på avstånd.
 
-Taekwondo är uppbyggt av tre ord, TAE, KWON och DO. TAE betyder FOT, KWON betyder HAND, DO betyder
+Taekwondo är uppbyggt av tre ord: **tae**, **kwon** och **do**. **Tae** betyder **fot**, **kwon** betyder **hand**, **do** betyder
 det mentala och fysiska sättet att utöva något. Med andra ord, det mentala och fysiska sättet att
 använda foten och handen i kamp, självförsvar och vardagsliv.
 
@@ -42,26 +40,26 @@ idrottsorganisationen i OS).
 
 ### Klädsel
 
-1. Vit dräkt
-1. Svart krage endast för Daninnehavare
-1. Överdelen får lov att ha klubbmärke el. andra TKD-märken på bröst och överarm
-1. Bälte skall bäras
-1. T-shirt under dräkten endast av damer
+- Vit dräkt
+- Svart krage, endast för Dan-innehavare
+- Överdelen får lov att ha klubbmärke el. andra TKD-märken på bröst och överarm
+- Bälte skall bäras
+- T-shirt under dräkten, endast för damer
 
 ### Skyddsutrustning
 
-1. Huvudskydd
-1. Tandskydd, vit eller transparant
-1. Kampväst
-1. Underarmsskydd
-1. TKD handskar
-1. Suspensoar, obligatoriskt även för damer
-1. Skenbensskydd
-1. TKD fortskydd
+- Huvudskydd
+- Tandskydd, vit eller transparant
+- Kampväst
+- Underarmsskydd
+- TKD handskar
+- Suspensoar, obligatoriskt även för damer
+- Skenbensskydd
+- TKD fortskydd
 
 ## Hur tävlar man? {#hur-tavlar-man}
 
-Tävling är uppdelad i två avdelningar, KAMP(Kyorogi) och MÖNSTER (Poomsae).
+Tävling är uppdelad i två avdelningar, **kamp** (Kyorogi) och **mönster** (Poomsae).
 
 ### Kamp
 
@@ -121,7 +119,7 @@ Huvudet: Vilken del som helst av foten som träffar huvudet är poäng.
 ### Förbjudna handlingar
 
 Nedanstående felaktiga handlingar under en match resulterar till att tävlande får en varning.  
-Otillåtna handlingar som bestraffas med ”Gam Jeom” (- 1 poäng):
+Otillåtna handlingar som bestraffas med ”Gam Jeum” (- 1 poäng):
 
 1. Passera gränslinjen med en fot
 1. Falla ner
@@ -150,7 +148,7 @@ matchdomaren tillsammans med kantdomarna vinnaren efter överlägsenhet som visa
 
 #### OBS!
 
-Då en tävlande erhållit 10 varningar (Gam Jeom) eller när en tävlande eller coachen ignorerar eller
+Då en tävlande erhållit 10 varningar (Gam Jeum) eller när en tävlande eller coachen ignorerar eller
 bryter mot de grundläggande reglerna i en Taekwondotävling, kan matchdomaren förklara denne som
 förlorare.
 
@@ -173,9 +171,7 @@ Herr och dam junior 14 - 17 år, senior 18 år.
 
 ## Bältesfärger {#baltesfarger}
 
-Det finns alltid frågor angående bältesfärger, så här kommer en förteckning gällande olika bältesgrader.
-
-| FÄRG                                                              | GRAD        | STATUS                                |
+| Färg                                                              | Grad        | Beskrivning                           |
 | ----------------------------------------------------------------- | ----------- | ------------------------------------- |
 | <b class="belt-color white"></b>                                  | 10 Gup      | Nybörjarelev                          |
 | <b class="belt-color yellow"></b>                                 | 9 Gup       | Nybörjarelev                          |
@@ -191,9 +187,9 @@ Det finns alltid frågor angående bältesfärger, så här kommer en förteckni
 | <b class="belt-color black">{%for i in (1..6)%}<i/>{%endfor%}</b> | 4, 5, 6 Dan | Nationell / internationell instruktör |
 | <b class="belt-color black">{%for i in (1..9)%}<i/>{%endfor%}</b> | 7, 8, 9 Dan | Stormästare                           |
 
-## Bältesfärgers betydelse {#baltesbetydelse}
+### Bältesfärgers betydelse {#baltesbetydelse}
 
-### Vitt bälte
+#### Vitt bälte
 
 Det vita bältet representerar renhet - oskuld och okunnighet om själva konstarten och om det
 speciella system som varje enskild lärare undervisar efter. Det visar på den öppenhet som en elev
@@ -203,7 +199,7 @@ tilliten och förtroendet för instruktören som gör att han kan föra eleven m
 att lära sig något om livet måste eleven inneha det vita bältets nyfikenhet, öppenhet och
 intensitet.
 
-### Gult bälte
+#### Gult bälte
 
 Det gula bältet representerar sanning, som liknas vid guld. Fröet som begrepp blir ytterligare
 symboliserat av den gula färgen. Det är bara ett gott frö som kan gro till en god planta. Därför
@@ -213,7 +209,7 @@ apelsinträd. Det är viktigt att en elev är ärlig mot sig själv eftersom det
 skapar personlig förnöjsamhet. Vi måste acceptera vilka vi är som individer och försöka att göra det
 bästa av våra möjligheter.
 
-### Grönt bälte
+#### Grönt bälte
 
 Det gröna bältet betecknar tillväxt. Eftersom vi strävar mot framtiden är tillväxt nödvändigt och ett
 villkor för att leva. Tillväxt är normalt förknippat med förändring och vi måste acceptera dessa
@@ -226,7 +222,7 @@ påminner oss att vi lever och att leva är att uppleva framtiden som små fragm
 dyker upp ett efter ett. Att återuppleva det förgångna är inte att leva, det är endast ett tillstånd
 av stagnation, stelhet och död.
 
-### Blått bälte
+#### Blått bälte
 
 Det blåa bältet symboliserar himlen, även om vi med våra ögon endast kan se en liten del av himlen så
 är inte allt som finns där. Den blåa färgen föreställer individens förstånd och hans intellektuella
@@ -235,7 +231,7 @@ rörelsen under den lugna ytan. Det är vår vilja som ger oss förmågan att ge
 Därför måste vi träna oss till att bli starka mentalt såväl som kroppsligt. Hårda tider varar inte
 för evigt men ett hårt sinne gör det.
 
-### Rött bälte
+#### Rött bälte
 
 Det röda bältet representerar solen, ljuset och energi som strålar från den enskildes fysiska
 övningar. Det är bara genom att utnyttja sin skicklighet och sin mentala styrka i träningen som
@@ -248,7 +244,7 @@ bältet som står för det "obegränsade". Paradoxalt nog innebär dessa begrän
 större utsträckning uppskattar sina framgångar. Begränsningarna förbereder oss på att nå etappmål
 och leder sedermera till att vi når det slutliga målet.
 
-### Svart bälte
+#### Svart bälte
 
 Det svarta bältet kombinerar alla bältesfärgerna och representerar alla de olika begreppen från
 föregående färger. De representerar också förbindelsen mellan detta färgvärdesystem och den
@@ -257,55 +253,7 @@ svåra uppgifter genom fysiska prestationer, intellektuell, beslutsamhet eller e
 båda. Graderingarna inom det svarta bältet representerar olika nivåer av mental förmåga hos den
 enskilde eleven, samt förmågan att använda dessa för att leva framgångsrikt liv.
 
-## Terminologi {#terminologi}
-
-| WT              | World Taekwondo                                     |
-| --------------- | --------------------------------------------------- |
-| Tae             | Fot                                                 |
-| Kwon            | Hand                                                |
-| Do              | Väg                                                 |
-| Tae Kwon Do     | Fotens och handens väg                              |
-|                 |                                                     |
-| Gup             | Elevgrader                                          |
-| 10 Gup          | Gult streck                                         |
-| 9 Gup           | Gult bälte                                          |
-| 8 Gup           | Grönt bälte                                         |
-| 7 Gup           | Grönt bälte med blått streck                        |
-| 6 Gup           | Blått bälte                                         |
-| 5 Gup           | Blått bälte med rött streck                         |
-| 4 Gup           | Rött bälte "avancerad elev"                         |
-| 3 Gup           | Rött bälte med 1 svart streck                       |
-| 2 Gup           | Rött bälte med 2 svarta streck                      |
-| 1 Gup           | Rött bälte med 3 svarta streck                      |
-|                 |                                                     |
-| Charyot         | Givakt                                              |
-| Kyosa-nim       | Assistent el.Nationell Instrukrör (1,2,3-Dan)       |
-| Sabom-nim       | Nationell el. Internationell instruktör (4,5,6-Dan) |
-| Kwan jang-nim   | Stormästare (7,8,9-Dan)                             |
-| Kyongrye        | Buga                                                |
-|                 |                                                     |
-| Jumeok          | Knytnäve                                            |
-| Moa-seogi       | Stängd ställning i charyot                          |
-| Naranhi-seogi   | Parallel ställning i jumbi                          |
-| Ki hap          | Ropa skrika                                         |
-| Bal chagi jumbi | Kamp ställning                                      |
-| Bal pako        | Byta ben                                            |
-| Dirro dorra     | Helt om                                             |
-| Shi jak         | Börja                                               |
-| Kalyeo          | Avbryt                                              |
-| Kae sock        | Fortsätt                                            |
-| Keuman          | Avsluta stopp                                       |
-|                 |                                                     |
-| An              | Inre                                                |
-| Bakkat          | Yttre                                               |
-| Bandae          | Samma                                               |
-| Baro            | Motsats                                             |
-| Wen             | Vänster                                             |
-| Oreun           | Höger                                               |
-| Do bok          | Träningsdräkt                                       |
-| Do jang         | Träningslokal                                       |
-
-## Dala TKD Elevens Ed {#klubbens-ed}
+## Klubbens Ed {#klubbens-ed}
 
 > Klubblojalitet, lydnad och respekt mot föräldrar och instruktören samt respekt mot senior elever, uppriktighet mot vänner, mod i kamp och undvikande av onödigt våld.
 

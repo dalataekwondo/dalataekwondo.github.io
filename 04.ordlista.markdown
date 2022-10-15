@@ -1,0 +1,110 @@
+---
+layout: page
+title: Ordlista
+permalink: /ordlista/
+---
+
+{: .post-nav}
+[Terminologi](#terminologi)
+[Grader](#grader)
+[Tekniker](#tekniker)
+[Räkna](#räkna)
+
+## Terminologi {#terminologi}
+
+| -               | -                   | -                                   |
+| --------------- | ------------------- | ----------------------------------- |
+| WT              |                     | World Taekwondo                     |
+| Tae             | 태                  | Fot                                 |
+| Kwon            | 권                  | Hand                                |
+| Do              | 도                  | Väg                                 |
+| Tae Kwon Do     | 태권도              | Fotens och handens väg              |
+|                 |                     |                                     |
+| Charyot         | 차렷                | Givakt                              |
+| Kyongrye        | 경례                | Buga                                |
+|                 |                     |                                     |
+| Jumeok          | 주먹                | Knytnäve                            |
+| Ap-seogi        | 앞 서기             | Traditionell kampställning, gå-steg |
+| Moa-seogi       | 모아 서기           | Stängd ställning i charyot          |
+| Naranhi-seogi   | 나란히 서기         | Parallel ställning i jumbi          |
+| Juchum-seogi    | 주춤 서기           | Ridställning                        |
+| Dwit-kubi       | 뒷 굽이             | L-ställning                         |
+| Beom-seogi      | 범 서기             | Tiger-ställning                     |
+| Ki hap          | 기합                | Ropa skrika                         |
+| Jumbi           | 준비                | Redo-ställning                      |
+| Bal chagi jumbi | <i>발 차기 준비</i> | Kamp-ställning                      |
+| Bal pako        | 바꾸                | Byta ben                            |
+| Dirro dorra     | 뒤로 돌아           | Helt om                             |
+| Shi jak         | 시작                | Börja                               |
+| Kalyeo          | 갈려                | Avbryt                              |
+| Kae sock        | 계속                | Fortsätt                            |
+| Keuman          | 그만                | Avsluta stopp                       |
+| Baro            | 바로                | Tillbaka                            |
+| Chong           | 청                  | Blå                                 |
+| Hong            | 홍                  | Röd                                 |
+| Gam-jeum        | 감점                | Bestraffas (-1 poäng)               |
+|                 |                     |                                     |
+| An              | 안                  | Inre                                |
+| Bakkat          | 밖앗                | Yttre                               |
+| Bandae          | 반대                | Motsats / Med främre hand/fot       |
+| Baro            | 바로                | Direkt / Med bakre hand/fot         |
+| Wen             | 왼                  | Vänster                             |
+| Oreun           | 오른                | Höger                               |
+| Olgul           | 얼굴                | Ovandel (bokstavligen ansikte)      |
+| Momtong         | 몸통                | Mittendel                           |
+| Are             | 아래                | Nedandel                            |
+| Do bok          | 도복                | Träningsdräkt                       |
+| Do jang         | 도장                | Träningslokal                       |
+
+## Grader {#grader}
+
+| -             | -      | -                                                   |
+| ------------- | ------ | --------------------------------------------------- |
+| Gup           | 급     | Elevgrader                                          |
+| 10 Gup        | 십급   | Gult streck                                         |
+| 9 Gup         | 구급   | Gult bälte                                          |
+| 8 Gup         | 팔급   | Grönt bälte                                         |
+| 7 Gup         | 칠급   | Grönt bälte med blått streck                        |
+| 6 Gup         | 육급   | Blått bälte                                         |
+| 5 Gup         | 오급   | Blått bälte med rött streck                         |
+| 4 Gup         | 사급   | Rött bälte "avancerad elev"                         |
+| 3 Gup         | 삼급   | Rött bälte med 1 svart streck                       |
+| 2 Gup         | 이급   | Rött bälte med 2 svarta streck                      |
+| 1 Gup         | 일급   | Rött bälte med 3 svarta streck                      |
+| Dan           | 단     | Svart bälte, 1-9 guldstreck                         |
+|               |        |                                                     |
+| Kyosa-nim     | 교사님 | Assistent el.Nationell Instrukrör (1,2,3-Dan)       |
+| Sabom-nim     | 사범님 | Nationell el. Internationell instruktör (4,5,6-Dan) |
+| Kwan jang-nim | 관장님 | Stormästare (7,8,9-Dan)                             |
+
+## Tekniker {#tekniker}
+
+| -                       | -                 | -                                                                |
+| ----------------------- | ----------------- | ---------------------------------------------------------------- |
+| <i>Chagi</i>            | 차기              | Spark                                                            |
+| <i>Ap-chagi</i>         | 앞차기            | Framåtspark                                                      |
+| <i>Ap dollyo-chagi</i>  | <i>앞돌려차기</i> | Framåt-rundspark                                                 |
+| <i>Dollyo-chagi</i>     | 돌려차기          | Rundspark                                                        |
+| <i>Neryo-chagi</i>      | 내려차기          | Yx-spark.                                                        |
+| <i>Miro-chagi</i>       | 밀어차기          | Knuffspark                                                       |
+| <i>Dwit-chagi</i>       | 뒤차기            | Roterande krosspark                                              |
+| <i>Yop-chagi</i>        | 옆차기            | Sidospark, träff med fotbladet                                   |
+| <i>Mom dollyo-chagi</i> | 몸돌려차기        | Roterande över ryggen, träff med undersidan av foten mot huvudet |
+| <i>Horyo-chagi</i>      | 후려차기          | Piskspark, med undersidan av foten mot huvudet, från sidan       |
+| <i>Pyojok-chagi</i>     | 표적차기          | Innåtspark, med undersidan av foten mot huvudet, frammåt         |
+| <i>Bituro-chagi</i>     | 비틀어차기        | Vridande spark, ovansidan av foten, innifrån ut                  |
+
+## Räkna {#räkna}
+
+| Nummer | Koreanska | Hangul | Sino-koreanska | Hangul |
+| ------ | --------- | ------ | -------------- | ------ |
+| 1      | hana      | 하나   | il             | 일     |
+| 2      | dul       | 둘     | i              | 이     |
+| 3      | set       | 셋     | sam            | 삼     |
+| 4      | net       | 넷     | sa             | 사     |
+| 5      | dasot     | 다섯   | oh             | 오     |
+| 6      | yosot     | 여섯   | yuk            | 육     |
+| 7      | ilgop     | 일곱   | chil           | 칠     |
+| 8      | yodol     | 여덟   | pal            | 팔     |
+| 9      | ahop      | 아홉   | gu             | 구     |
+| 10     | yol       | 열     | sip            | 십     |

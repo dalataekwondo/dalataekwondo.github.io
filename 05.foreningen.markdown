@@ -4,7 +4,7 @@ title: Föreningen
 permalink: /foreningen/
 ---
 
-| ---                  | ---                                                 |
+| -                    | -                                                   |
 | -------------------- | --------------------------------------------------- |
 | Namn                 | Dala Taekwondo Akademi                              |
 | Bildad               | 1996-11-14                                          |
