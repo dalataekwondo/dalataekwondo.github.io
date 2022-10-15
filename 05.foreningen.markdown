@@ -4,19 +4,18 @@ title: Föreningen
 permalink: /foreningen/
 ---
 
-| -                    | -                                                   |
-| -------------------- | --------------------------------------------------- |
-| Namn                 | Dala Taekwondo Akademi                              |
-| Bildad               | 1996-11-14                                          |
-| Föreningsnummer      | 33252-68                                            |
-| Postadress           | Reza Abrishami, Hägerstigen 23 <br/> 78450 Borlänge |
-| Telefon              | [0243-22 46 24](tel:0243224624)                     |
-| Mobil                | [070-768 48 40](tel:0707684840)                     |
-| E-post               | [info@dalataekwondo.com][mailto]                    |
-| Hemsida              | <https://dalataekwondo.com>                         |
-| PlusGiro             | 922115-1                                            |
-| Swish                | 1237684840                                          |
-| Organisationsnummer  | 802457-1682                                         |
-| Föreningens hemsidor | Dala Taekwondo Akademi                              |
+| -                    | -                                                    |
+| -------------------- | ---------------------------------------------------- |
+| Namn                 | Dala Taekwondo Akademi                               |
+| Bildad               | 1996-11-14                                           |
+| Föreningsnummer      | 33252-68                                             |
+| Postadress           | Reza Abrishami<br/>Hägerstigen 23<br/>78450 Borlänge |
+| Telefon              | [0243-22 46 24](tel:0243224624)                      |
+| Mobil                | [070-768 48 40](tel:0707684840)                      |
+| E-post               | [info@dalataekwondo.com][mailto]                     |
+| Hemsida              | <https://dalataekwondo.com>                          |
+| PlusGiro             | 922115-1                                             |
+| Swish                | 1237684840                                           |
+| Organisationsnummer  | 802457-1682                                          |
 
 [mailto]: mailto:info@dalataekwondo.com

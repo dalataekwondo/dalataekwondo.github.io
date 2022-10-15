@@ -146,7 +146,7 @@ resulterat i ett oavgjort resultat. Segrare är den som registrerats för först
 eller motståndaren erhållit -2 poäng för förbjuden handling. Vid 0-0 efter 4:e rondens slut utser
 matchdomaren tillsammans med kantdomarna vinnaren efter överlägsenhet som visats under 4:e ronden.
 
-#### OBS!
+#### Obs!
 
 Då en tävlande erhållit 10 varningar (Gam Jeum) eller när en tävlande eller coachen ignorerar eller
 bryter mot de grundläggande reglerna i en Taekwondotävling, kan matchdomaren förklara denne som
@@ -257,7 +257,8 @@ enskilde eleven, samt förmågan att använda dessa för att leva framgångsrikt
 
 > Klubblojalitet, lydnad och respekt mot föräldrar och instruktören samt respekt mot senior elever, uppriktighet mot vänner, mod i kamp och undvikande av onödigt våld.
 
-**OBS:**  
+#### Obs!
+
 Taekwondo tar avstånd från oseriösa personer som sammanblandar och utnyttjar Taekwondos namn i
 samband med video och gatuvåld. Om någon har detta som målsättning för sin träning är han/hon inte
 välkommen i TKD familjen!!!
