@@ -22,6 +22,24 @@ footer {
     margin-bottom: 5rem;
 }
 
+.nyheter-header {
+    margin-top: 3rem;
+}
+
+blockquote.puff {
+    font-family: unset;
+    // font-size: unset;
+    font-style: unset;
+    color: unset;
+    border-left: unset;
+    padding-left: unset;
+    border: 1px solid gainsboro;
+    padding: 1rem;
+    border-radius: .25rem;
+    margin-block: 2rem;
+    margin-inline: -1rem;
+}
+
 #scroll-to-top {
     position: fixed;
     bottom: 2rem;

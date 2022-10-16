@@ -98,13 +98,13 @@ permalink: /ordlista/
 
 | Nummer | Koreanska | Hangul | Sino-koreanska | Hangul |
 | ------ | --------- | ------ | -------------- | ------ |
-| 1      | hana      | 하나   | il             | 일     |
-| 2      | dul       | 둘     | i              | 이     |
-| 3      | set       | 셋     | sam            | 삼     |
-| 4      | net       | 넷     | sa             | 사     |
-| 5      | dasot     | 다섯   | oh             | 오     |
-| 6      | yosot     | 여섯   | yuk            | 육     |
-| 7      | ilgop     | 일곱   | chil           | 칠     |
-| 8      | yodol     | 여덟   | pal            | 팔     |
-| 9      | ahop      | 아홉   | gu             | 구     |
-| 10     | yol       | 열     | sip            | 십     |
+| 1      | Hana      | 하나   | Il             | 일     |
+| 2      | Dul       | 둘     | I              | 이     |
+| 3      | Set       | 셋     | Sam            | 삼     |
+| 4      | Net       | 넷     | Sa             | 사     |
+| 5      | Dasot     | 다섯   | Oh             | 오     |
+| 6      | Yosot     | 여섯   | Yuk            | 육     |
+| 7      | Ilgop     | 일곱   | Chil           | 칠     |
+| 8      | Yodol     | 여덟   | Pal            | 팔     |
+| 9      | Ahop      | 아홉   | Gu             | 구     |
+| 10     | Yol       | 열     | Sip            | 십     |
