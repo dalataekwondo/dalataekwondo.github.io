@@ -33,7 +33,7 @@ permalink: /ordlista/
 | Ki hap          | 기합                | Ropa skrika                         |
 | Jumbi           | 준비                | Redo-ställning                      |
 | Bal chagi jumbi | <i>발 차기 준비</i> | Kamp-ställning                      |
-| Bal pako        | 바꾸                | Byta ben                            |
+| Bal pako        | 발 바꾸             | Byta ben                            |
 | Dirro dorra     | 뒤로 돌아           | Helt om                             |
 | Shi jak         | 시작                | Börja                               |
 | Kalyeo          | 갈려                | Avbryt                              |

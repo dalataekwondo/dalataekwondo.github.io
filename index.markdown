@@ -10,7 +10,7 @@ nonav: true
 
 > Vi tränar regelbundet i **Maserhallens kampsportslokal** i Borlänge.
 >
-> Höstterminen 2022 pågår under **16/8 - 16/12**  
+> Vårterminen 2023 pågår under **10/1 - 30/5**  
 > Vilka tider som gäller hittar du [här](/lokal-tid/#tid).
 
 ### Bli medlem hos oss:
