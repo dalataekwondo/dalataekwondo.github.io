@@ -15,7 +15,7 @@ permalink: /foreningen/
 | E-post               | [info@dalataekwondo.com][mailto]                     |
 | Hemsida              | <https://dalataekwondo.com>                          |
 | PlusGiro             | 922115-1                                             |
-| Swish                | 1237684840                                           |
+| Swish                | 0707684840                                           |
 | Organisationsnummer  | 802457-1682                                          |
 
 [mailto]: mailto:info@dalataekwondo.com
