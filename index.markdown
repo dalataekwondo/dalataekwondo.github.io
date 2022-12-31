@@ -9,6 +9,7 @@ Vi finns på Instagram [@{{ site.instagram_username| escape }}](https://instagra
 {: .puff}
 
 > **Borlänge, Maserhallens kampsportslokal**
+> 
 > **Vårtermin 2023: 10/1 - 30/5**  
 > 
 > Info om tider och priser hittar du [här](/lokal-tid/#tid).
