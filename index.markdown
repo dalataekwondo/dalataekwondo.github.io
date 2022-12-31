@@ -4,14 +4,14 @@ title: Välkommen till Dala Taekwondo Akademi
 nonav: true
 ---
 
-Kolla gärna in oss på Instragram [@{{ site.instagram_username| escape }}](https://instagram.com/dala_tkd).
+Vi finns på Instagram [@{{ site.instagram_username| escape }}](https://instagram.com/dala_tkd).
 
 {: .puff}
 
 > **Borlänge, Maserhallens kampsportslokal**
->
 > **Vårtermin 2023: 10/1 - 30/5**  
-> Vilka tider som gäller hittar du [här](/lokal-tid/#tid).
+> 
+> Info om tider och priser hittar du [här](/lokal-tid/#tid).
 
 ### Bli medlem hos oss:
 
