@@ -4,7 +4,7 @@ title: Välkommen till Dala Taekwondo Akademi
 nonav: true
 ---
 
-Vi finns på Instagram [@{{ site.instagram_username| escape }}](https://instagram.com/dala_tkd).
+Vi finns på Instagram [@{{ site.instagram_username | escape }}](https://instagram.com/dala_tkd).
 
 {: .puff}
 
