@@ -20,3 +20,6 @@ De två första månaderna varje termin har vi intag av nya medlemmar, i mån om
 De första två veckorna är **gratis** prova-på-träning!
 
 Vid frågor, [kontakta oss](/foreningen).
+
+### Nyhetsflödet från RF-SISU Dalarna:
+För nyheter inom RF-SISU dalarna, [följ denna länk](https://www.sisuidrottsutbildarna.se/distrikt/dalarna/nyhetsarkiv)
