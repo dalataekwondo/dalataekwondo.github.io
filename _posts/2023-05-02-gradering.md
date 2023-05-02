@@ -36,11 +36,11 @@ Teknikgruppen
 Teori ska redovisas under måndagen den 15 maj och krosstekniker under tisdagen den 16 maj. Barngrupper bör endast kunna Dala Taekwondo elevens ED  som redovisas under tisdagen den 16 maj. 
 
 Övriga grupper ska även kunna:  
-Vad är TKD?  
+[Vad är TKD?](/taekwondo/#taekwondo)  
 - Vad betyder TKD?
 - Den moderna TKD
 - Varför 3- till 1-stegs tekniker?
-Vad är de olika färgbältens betydelse?
+[Vad är de olika färgbältens betydelse?](/taekwondo/#baltesfarger)
 
 **Bältesceremonin**  
 Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med säsongens sista träning tisdag den 30 maj. 
