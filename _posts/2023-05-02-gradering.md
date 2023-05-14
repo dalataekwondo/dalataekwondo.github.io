@@ -38,7 +38,7 @@ Teknikgruppen
 
 ### Teori och Krosstekniker
 
-Teori ska redovisas under måndagen den 15 maj och krosstekniker under tisdagen den 16 maj.
+Teori ska redovisas under måndagen den 22 maj och krosstekniker under tisdagen den 23 maj.
 
 Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 16 maj.
 
