@@ -48,7 +48,7 @@ Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed
 - [Vad är TKD?](/taekwondo#taekwondo)
 - Vad betyder TKD?
 - Den moderna TKD
-- Varför 3- till 1-stegs tekniker?
+- [Varför 3- till 1-stegs tekniker?](/taekwondo#stegstekniker)
 - [Vad är de olika färgbältens betydelse?](/taekwondo#baltesfarger)
 
 ### Bältesceremonin
