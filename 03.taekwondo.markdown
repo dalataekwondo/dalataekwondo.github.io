@@ -6,8 +6,6 @@ permalink: /taekwondo/
 
 {: .post-nav}
 [Taekwondo](#taekwondo)
-[3-1 Stegstekniker](#stegstekniker)
-[Krosstekniker](#krosstekniker)
 [Klädsel och Skyddsutrustning](#kladsel)
 [Hur tävlar man?](#hur-tavlar-man)
 [Tävlingsregler](#tavlingsregler)
