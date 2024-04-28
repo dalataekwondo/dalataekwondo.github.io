@@ -38,43 +38,25 @@ idrottsorganisationen i OS).
 
 ### 3-1 Stegstekniker {#stegstekniker}
 
-**Sa-bon Kyorugi** betyder tre stegs tekniker. 
-Här tränar man mot en motståndare. 
-Motståndaren attackerar och man tar ett 
-steg bakåt och blockerar. Detta upprepas 
-tills attackeraren gjort tre slag eller sparkar. 
-Efter tredje slaget eller sparken kontrar 
-man och kampen är över. Observera 
-filosofin: Han anfaller mig men jag ger 
-honom tre chanser innan jag försvarar mig. 
-Sa-bon Kyorugi tränas av elever så dessa 
-lärs sig att behärska blockeringarna samt att 
-de lärs sig filosofin. 
+**Sa-bon Kyorugi** betyder tre stegs tekniker. Här tränar man mot en motståndare. Motståndaren
+attackerar och man tar ett steg bakåt och blockerar. Detta upprepas tills attackeraren gjort tre slag
+eller sparkar. Efter tredje slaget eller sparken kontrar man och kampen är över. Observera filosofin:
+Han anfaller mig men jag ger honom tre chanser innan jag försvarar mig. Sa-bon Kyorugi tränas av
+elever så dessa lärs sig att behärska blockeringarna samt att de lärs sig filosofin.
 
-**To-bon kyorugi** betyder två stegs tekniker. 
-Detta moment är samma som Sa-bon 
-Kyorugi fast man ger anfallaren två chanser 
-innan man försvarar sig. Detta moment 
-tränas av mer rutinerade elever som har 
-större mental mognad än nybörjar eleverna. 
+**To-bon kyorugi** betyder två stegs tekniker. Detta moment är samma som Sa-bon Kyorugi fast man ger
+anfallaren två chanser innan man försvarar sig. Detta moment tränas av mer rutinerade elever som har
+större mental mognad än nybörjar eleverna.
 
-**Han-bon kyorugi** betyder ett stegs 
-tekniker och är sista steget i detta 
-träningsmoment. Han-bon Kyorugi tränas 
-av avancerade elever som vet och kan 
-avgöra när de ska försvara sig. Nu ska 
-utövaren uppnått en mental styrka och 
-mognad samt inneha bra tekniker. 
+**Han-bon kyorugi** betyder ett stegs tekniker och är sista steget i detta träningsmoment. Han-bon
+Kyorugi tränas av avancerade elever som vet och kan avgöra när de ska försvara sig. Nu ska utövaren
+uppnått en mental styrka och mognad samt inneha bra tekniker.
 
 ### Krosstekniker {#krosstekniker}
 
-**Kyop-pah** betyder krosstekniker. Dessa 
-görs främst idag på uppvisningar samt när 
-elever graderar sig till ett nytt bälte. Fast 
-förr gjorde de krosstekniker för att se om 
-deras teknik var korrekt samt att de hade 
-bra kraft i tekniken. Krosstekniker utförs 
-på brädor och tegelstenar eller annat. 
+**Kyop-pah** betyder krosstekniker. Dessa görs främst idag på uppvisningar samt när elever graderar
+sig till ett nytt bälte. Fast förr gjorde de krosstekniker för att se om deras teknik var korrekt
+samt att de hade bra kraft i tekniken. Krosstekniker utförs på brädor och tegelstenar eller annat.
 
 ## Klädsel och Skyddsutrustning {#kladsel}
 
@@ -159,7 +141,7 @@ Huvudet: Vilken del som helst av foten som träffar huvudet är poäng.
 ### Förbjudna handlingar
 
 Nedanstående felaktiga handlingar under en match resulterar till att tävlande får en varning.  
-Otillåtna handlingar som bestraffas med ”Gam Jeum” (- 1 poäng):
+Otillåtna handlingar som bestraffas med ”Gam Jeum” (-1 poäng):
 
 1. Passera gränslinjen med en fot
 1. Falla ner
@@ -198,16 +180,16 @@ Herr och dam junior 14 - 17 år, senior 18 år.
 
 | Viktklass         | Junior herr | Senior herr | Junior dam | Senior dam |
 | ----------------- | ----------- | ----------- | ---------- | ---------- |
-| **Fin**           | - 45        | - 54        | - 42       | - 46       |
-| **Flug**          | - 48        | - 58        | - 44       | - 49       |
-| **Bantam**        | - 51        | - 63        | - 46       | - 53       |
-| **Fjäder**        | - 55        | - 68        | - 49       | - 57       |
-| **Lätt**          | - 59        | - 74        | - 52       | - 62       |
-| **Welter**        | - 63        | - 80        | - 55       | - 67       |
-| **Lätt mellan**   | - 6         |             | - 5        |
-| **Mellan**        | - 73        | - 87        | - 63       | - 73       |
-| **Lätt tungvikt** | - 7         |             | - 6        |
-| **Tungvikt**      | + 78        | + 87        | + 68       | + 73       |
+| **Fin**           | -45         | -54         | -42        | -46        |
+| **Flug**          | -48         | -58         | -44        | -49        |
+| **Bantam**        | -51         | -63         | -46        | -53        |
+| **Fjäder**        | -55         | -68         | -49        | -57        |
+| **Lätt**          | -59         | -74         | -52        | -62        |
+| **Welter**        | -63         | -80         | -55        | -67        |
+| **Lätt mellan**   | -68         |             | -59        |
+| **Mellan**        | -73         | -87         | -63        | -73        |
+| **Lätt tungvikt** | -78         |             | -68        |
+| **Tungvikt**      | +78         | +87         | +68        | +73        |
 
 ## Bältesfärger {#baltesfarger}
 
@@ -309,3 +291,33 @@ Poomsae är Taekwondos motsvarighet till Karatens Kata. Det är ett förutbestä
 olika ställningar och slår, blockerar, sparkar och tränar andning. Poomsae är kamp utan motståndare.
 Om Poomsae utförs på ett korrekt sätt är det mycket vackert att se på. I Poomsae tränas: styrka,
 balans, smidighet, andning, snabbhet, kordination m.m.
+
+### Videor
+
+Här nedan följer länkar till youtube-videor, som i detalj går igenom varje Taegeuk/Poomsae.
+
+[Taekwondo Poomsae](https://youtube.com/playlist?list=PLSFr5pEwo7gSwvfg4bjxoF3liyfJkCLAj&si=jeAOGAUnjRaWZ_3o) -- spellista för alla mönster.
+
+#### Taegeuk
+
+1. [Taegeuk Il Jang](https://youtu.be/WhkjRruCBTo?si=KLBv9fQ-Garqq9nb)  
+1. [Taegeuk I Jang](https://youtu.be/tGlrUplKHh8?si=5F1aS5DRSsAUxDE4)  
+1. [Taegeuk Sam Jang](https://youtu.be/ksSqKt0UkWo?si=077E9TrkK-ESLdhi)  
+1. [Taegeuk Sa Jang](https://youtu.be/Lt917gacJho?si=5NdiOsJUr-ZMLC4M)  
+1. [Taegeuk Oh Jang](https://youtu.be/VdqNEAHWCBM?si=oOmbwTA4wVYIWLBO)  
+1. [Taegeuk Yuk Jang](https://youtu.be/jcBwWo4wN7c?si=Xb3Vayy5cVRJ2jp1)  
+1. [Taegeuk Chil Jang](https://youtu.be/6FUM1p6qqhQ?si=FP2HUhCcncXTaKt_)  
+1. [Taegeuk Pal Jang](https://youtu.be/Gr_Je2ZkgkI?si=ygQ48vQ2OpJXga-4)
+
+#### Poomsae
+
+{: .poomsae-links}
+士 [Koryo](https://youtu.be/mGa60JDtWmg?si=SI4DIe4aYgMXA-yo)  
+山 [Keumgang](https://youtu.be/CRGVSOmaQaY?si=9_KRBMl8TFvKPUGS)  
+工 [Taebaek](https://youtu.be/Q4dYdFRbE4U?si=mrB441ChJa4j_LBL)  
+一 [Pyeongwon](https://youtu.be/RB-7mBtvtZw?si=NiTkv-Za3vHQHoHC)  
+十 [Sipjin](https://youtu.be/hOZB0IESJ38?si=jocO6gFXOCWvu_DN)  
+ㅗ [Jitae](https://youtu.be/nur2WsN7dQw?si=PQh4W_UOPTjq3m7R)  
+ㅜ [Chonkwon](https://youtu.be/FBxCzK5c4bE?si=hKT8-KVKJwEwbwuT)  
+水 [Hansu](https://youtu.be/lRp1JE7f-a8?si=8HxnJYqqyNG8WNMM)  
+卍 [Ilyeo](https://youtu.be/jWClKVOrqJ8?si=9NziBC7UyhXFHC26)
