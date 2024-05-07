@@ -4,7 +4,7 @@ title: Säsongsgradering, VT 2024
 categories: schedule
 ---
 
-Det är säsongsgraderingen söndagen den 19 maj mellan kl. 12:00 och 16:00. Under de kommande träningarna kommer vi att fortsatt lägga extra fokus på graderingen, så det är viktigt att närvara regelbundet för att vara väl förberedd. Vid graderingen och bältesceremonin är det obligatoriskt att bära Taekwondo-dräkt. Under graderingen och bältesceremonin är det obligatorisk med Taekwondo dräkter.
+Det är säsongsgradering söndagen den 19 maj mellan kl. 12:00 och 16:00. Under de kommande träningarna kommer vi att fortsatt lägga extra fokus på graderingen, så det är viktigt att närvara regelbundet för att vara väl förberedd. Under graderingen och bältesceremonin är det obligatorisk med Taekwondo dräkter.
 
 ### Graderingskrav
 
