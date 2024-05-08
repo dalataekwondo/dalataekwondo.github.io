@@ -8,7 +8,7 @@ Det är säsongsgradering söndagen den 19 maj mellan kl. 12:00 och 16:00. Under
 
 ### Graderingskrav
 
-Medlem som har haft minst 70 procent närvaro under aktuell termin, har betalat berörda medlems- och träningsavgifter samt kan berörda mönster och tekniker för den nya graden, har möjlighet att anmäla sig till graderingen.
+Medlemmar som har haft minst 70 procent närvaro under aktuell termin, har betalat berörda medlems- och träningsavgifter samt kan berörda mönster och tekniker för den nya graden, har möjlighet att anmäla sig till graderingen.
 
 ### Graderingsavgift
 
