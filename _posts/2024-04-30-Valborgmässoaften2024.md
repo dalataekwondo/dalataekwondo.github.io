@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valborgmässoaften- Ingen träning kl. 18:00-19:30
+title: Valborgmässoafton - Ingen träning kl. 18:00-19:30
 categories: schedule
 ---
 
