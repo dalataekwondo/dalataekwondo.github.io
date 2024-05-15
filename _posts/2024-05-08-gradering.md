@@ -25,10 +25,10 @@ Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar grader
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00 respektive kl. 13:00. Övriga anmälda ska vara ombytta ca en halvtimme före graderingen för egen uppvärmning.
 
 kl. 12:00-13:00  
-Barngrupp vitbältare
+Barngruppen 
 
 kl. 13:00-14:00  
-Barngrupp Färgbältare
+Nybörjaregruppen
 
 kl. 14:00-15:00  
 Ungdomsgruppen
