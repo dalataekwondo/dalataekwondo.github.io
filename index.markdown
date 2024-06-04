@@ -10,7 +10,7 @@ Vi finns på Instagram [@{{ site.instagram_username | escape }}](https://instagr
 
 > **Borlänge, Maserhallens kampsportslokal**
 > 
-> **Hösttermin 2024: 20/8 - 20/12**  
+> **Hösttermin 2024: 20/8 - 17/12**  
 > 
 > För information om träningstider och terminsavgifter se [här](/lokal-tid/#tid).
 
