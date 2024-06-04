@@ -15,14 +15,14 @@ Borlänge, Maserhallens Kampsportlokal
 
 ### Tid {#tid}
 
-Vårtermin 2024: 9/1 - 31/5
+Hösttermin 2024: 20/8 - 17/12
 
 #### Barn 7-9 år
 
 | Dag      | Tid           | Grupp       | Typ         |
-| -------- | ------------- | ----------- | ----------- |
-| Tisdagar | 17:00 - 18:00 | Barngrupper | Barnträning |
-| Fredagar | 17:00 - 18:00 | Barngrupper | Barnträning |
+| -------- | ------------- | ----------- | -------------------- |
+| Tisdagar | 17:00 - 18:00 | Barngrupper | Traditionell träning |
+| Fredagar | 17:00 - 18:00 | Barngrupper | Mittsträning         |
 
 #### Nybörjare
 
