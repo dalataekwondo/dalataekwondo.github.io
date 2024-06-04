@@ -10,7 +10,6 @@ permalink: /instruktorer/
 | Sabom-nim     | Dana Wso         | 6 Dan |
 | Sabom-nim     | Lallas Sandström | 5 Dan |
 | Kyosa-nim     | Maryam Abrishami | 3 Dan |
-| Kyosa-nim     | Henrik Englund   | 2 Dan |
-| Kyosa-nim     | Fredrik Lorenz   | 2 Dan |
-| Kyosa-nim     | Melina Abrishami | 2 Dan |
-| Kyosa-nim     | Kevin Abrishami  | 2 Poom|
+| Kyosa-nim     | Henrik Englund   | 3 Dan |
+| Kyosa-nim     | Melina Abrishami | 3 Dan |
+| Kyosa-nim     | Kevin Abrishami  | 3 Dan |
