@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Intagning av nya medlemmar, Hösten 2024
