@@ -4,7 +4,7 @@ title: Säsongsgradering, VT 2025
 categories: schedule
 ---
 
-### Säsongsgraderingg, söndag 18 maj kl. 12:00–16:00
+### Söndag 18 maj kl. 12:00–16:00
 
 Under de kommande träningarna kommer vi att lägga extra fokus på förberedelser inför graderingen. Det är därför viktigt att delta regelbundet för att vara väl förberedd.
 Observera att Taekwondo-dräkt är obligatorisk vid både gradering och bältesceremoni.
