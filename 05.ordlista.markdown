@@ -24,12 +24,12 @@ permalink: /ordlista/
 | Kyongrye        | 경례                | Buga                                |
 |                 |                     |                                     |
 | Jumeok          | 주먹                | Knytnäve                            |
-| Ap-seogi        | 앞 서기             | Traditionell kampställning, gå-steg |
-| Moa-seogi       | 모아 서기           | Stängd ställning i charyot          |
-| Naranhi-seogi   | 나란히 서기         | Parallel ställning i jumbi          |
-| Juchum-seogi    | 주춤 서기           | Ridställning                        |
-| Dwit-kubi       | 뒷 굽이             | L-ställning                         |
-| Beom-seogi      | 범 서기             | Tiger-ställning                     |
+| Ap seogi        | 앞 서기             | Traditionell kampställning, gå-steg |
+| Moa seogi       | 모아 서기           | Stängd ställning i charyot          |
+| Naranhi seogi   | 나란히 서기         | Parallel ställning i jumbi          |
+| Juchum seogi    | 주춤 서기           | Ridställning                        |
+| Dwi kubi        | 뒷 굽이             | L-ställning                         |
+| Beom seogi      | 범 서기             | Tiger-ställning                     |
 | Ki hap          | 기합                | Ropa skrika                         |
 | Jumbi           | 준비                | Redo-ställning                      |
 | Bal chagi jumbi | <i>발 차기 준비</i> | Kamp-ställning                      |
@@ -79,20 +79,21 @@ permalink: /ordlista/
 
 ## Tekniker {#tekniker}
 
-| -                       | -                 | -                                                                |
-| ----------------------- | ----------------- | ---------------------------------------------------------------- |
-| <i>Chagi</i>            | 차기              | Spark                                                            |
-| <i>Ap-chagi</i>         | 앞차기            | Framåtspark                                                      |
-| <i>Ap dollyo-chagi</i>  | <i>앞돌려차기</i> | Framåt-rundspark                                                 |
-| <i>Dollyo-chagi</i>     | 돌려차기          | Rundspark                                                        |
-| <i>Neryo-chagi</i>      | 내려차기          | Yx-spark.                                                        |
-| <i>Miro-chagi</i>       | 밀어차기          | Knuffspark                                                       |
-| <i>Dwit-chagi</i>       | 뒤차기            | Roterande krosspark                                              |
-| <i>Yop-chagi</i>        | 옆차기            | Sidospark, träff med fotbladet                                   |
-| <i>Mom dollyo-chagi</i> | 몸돌려차기        | Roterande över ryggen, träff med undersidan av foten mot huvudet |
-| <i>Horyo-chagi</i>      | 후려차기          | Piskspark, med undersidan av foten mot huvudet, från sidan       |
-| <i>Pyojok-chagi</i>     | 표적차기          | Innåtspark, med undersidan av foten mot huvudet, frammåt         |
-| <i>Bituro-chagi</i>     | 비틀어차기        | Vridande spark, ovansidan av foten, innifrån ut                  |
+| -                       | -                    | -                                                                                      |
+| ----------------------- | -------------------- | -------------------------------------------------------------------------------------- |
+| <i>Chagi</i>            | 차기                 | Spark                                                                                  |
+| <i>Ap chagi</i>         | 앞차기               | Framåtspark                                                                            |
+| <i>Ap dollyo chagi</i>  | <i>앞돌려차기</i>    | Framåt-rundspark                                                                       |
+| <i>Dollyo chagi</i>     | 돌려차기             | Rundspark                                                                              |
+| <i>Neryo chagi</i>      | 내려차기             | Yx-spark                                                                              |
+| <i>Miro chagi</i>       | 밀어차기             | Knuffspark                                                                             |
+| <i>Dwi chagi</i>        | 뒤차기               | Roterande krosspark                                                                    |
+| <i>Yop chagi</i>        | 옆차기               | Sidospark, träff med fotbladet                                                         |
+| <i>Horyo chagi</i>      | 후려차기             | Piskspark/krokspark, från sidan. Träff med undersidan av foten mot huvudet.            |
+| <i>Mom dollyo chagi</i> | 몸돌려차기           | Piskspark/krokspark, roterande över ryggen. Träff med undersidan av foten mot huvudet. |
+| <i>Pyojok chagi</i>     | 표적차기             | Innåtspark, med undersidan av foten mot huvudet, frammåt                               |
+| <i>Bituro chagi</i>     | 비틀어차기           | Vridande spark, ovansidan av foten, innifrån ut                                        |
+| <i>Deung jumeok</i>     | <i>등주먹 앞치기</i> | Knogslag med ovansidan av näven. (Bokstavligen baksida knoge.)                         |
 
 ## Räkna {#räkna}
 

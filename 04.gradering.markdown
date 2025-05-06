@@ -1,0 +1,270 @@
+---
+layout: page
+title: Gradering
+permalink: /gradering/
+---
+
+{: .post-nav}
+[Teori](#teori)
+[Elevgrader](#gup)
+[Dan-grader](#dan)
+[Stegtekniker](#stegtekniker)
+
+## Teori {#teori}
+
+För samtliga grader ska du kunna följade teori:
+
+- Dala Taekwondo elevens ED
+- Vad är TKD?
+- Vad betyder TKD?
+- Den moderna TKD?
+- Varför 3-1 stegs tekniker?
+- Vad är de olika färgbältens betydelse. (De färger du haft och graderar till.)
+
+Du kan läsa om detta under fliken [Taekwondo](/taekwondo).
+
+## Elevgrader {#gup}
+
+### Gult bälte - 9 Gup {#gup9}
+
+- **Ställningar:** Charyot, Kyongrye, Jumbi, Juchum seogi, Baro, Bal chagi jumbi, Bal pako, Dirro dorra.
+- **Blockeringar:** Are makgi, Momtong an makgi, Momtong bakkat makgi, Olgul makgi.
+- **Sparkar:** Ap chagi, Ap dollyo chagi, Miro chagi, Neryo chagi.
+- **Krosstekniker:** Miro chagi / Neryo chagi.
+
+### Grönt bälte - 8 Gup {#gup8}
+
+- **Obligatorisk Taegeuk:** Il Jang. (1)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 1 jang.
+- **Stegssparringar:** 2 st. 3-steg
+- **Greppteknik:** 1 st.
+- **Nya sparkar:** Dollyo chagi, Yop chagi.
+- **Krosstekniker:** Yop chagi
+
+### Grönt/blått bälte - 7 Gup {#gup7}
+
+- **Obligatorisk Taegeuk:** Il Jang. (2)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 2 Jang.
+- **Stegssparringar:** 4 st. 3-steg.
+- **Greppteknik:** 2 st.
+- **Nya sparkar:** Dwi chagi.
+- **Krosstekniker:** Dwi chagi.
+
+### Blått bälte - 6 Gup {#gup6}
+
+- **Obligatorisk Taegeuk:** Sam Jang. (3)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 3 Jang.
+- **Stegssparringar:** 6 st. 3-steg.
+- **Greppteknik:** 3 st.
+- **Nya sparkar:** Twio dwi chagi.
+- **Krosstekniker:** Twio dwi chagi.
+
+### Blått bälte / rött streck - 5 Gup {#gup5}
+
+- **Obligatorisk Taegeuk:** Sa Jang. (4)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 4 Jang.
+- **Stegssparringar:** 2 st. 2-steg, 6 st. 3-steg.
+- **Greppteknik:** 4 st.
+- **Nya sparkar:** Mom dollyo chagi.
+- **Krosstekniker:** Mom dollyo chagi.
+
+### Rött bälte - 4 Gup {#gup4}
+
+- **Obligatorisk Taegeuk:** Oh Jang. (5)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 5 Jang.
+- **Stegssparringar:** 4 st. 2-steg, 6 st. 3-steg.
+- **Greppteknik:** 5 st.
+- **Nya sparkar:** Twio mom dollyo chagi, Twio ap chagi.
+- **Krosstekniker:** Twio mom dollyo chagi / Twio ap chagi.
+
+### Rött bälte / ett svart streck - 3 Gup {#gup3}
+
+- **Obligatorisk Taeguk:** Yuk Jang. (6)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 6 Jang.
+- **Stegssparringar:** 6 st. 2-steg, 6 st. 3-steg.
+- **Greppteknik:** 6 st.
+- **Nya sparkar:** Pyojok chagi.
+- **Krosstekniker:** Twio dollyo chagi / Tornado twio dollyo chagi.
+
+### Rött bälte / två svarta streck - 2 Gup {#gup2}
+
+- **Obligatorisk Taeguk:** Chil Jang. (7)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 7 Jang.
+- **Stegssparringar:** 2 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
+- **Greppteknik:** 7 st.
+- **Nya sparkar:** -
+- **Krosstekniker:** Twio mom dollyo chagi.
+
+### Rött bälte / tre svarta streck - 1 Gup {#gup1}
+
+- **Obligatorisk Taeguk:** Pal Jang. (8)
+  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 8 Jang.
+- **Stegssparringar:** 4 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
+- **Greppteknik:** 8 st.
+- **Nya sparkar:** Twio yop chagi.
+- **Krosstekniker:** Twio yop chagi.
+
+## Dan-grader {#dan}
+
+### 1 Dan
+
+- **Obligatorisk Poomsae:** Koryo.
+- **Obligatorisk Taeguk:** Pal Jang.
+- **En frivillig Taeguk:** Får väljas mellan 1-7.
+- **Ett överraskning Taeguek:** Kommer frågas mellan 1-7.
+- Samtliga tekniker som ingår i Taeguek 1-8 och Poomsae Koryo ska kunna redovisas.
+- **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
+- **Grepptekniker:** 9 st.
+- **Nya sparkar:** -
+- **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
+
+### 2 Dan
+
+- **Obligatoriska Poomsae:** Koryo och Kumgang.
+- **Obligatorisk Taeguek:** Pal Jang.
+- **En Frivillig Taeguek:** Får väljas mellan 1-8.
+- **Ett överraskning Taeguek:** Kommer frågas mellan 1-8.
+- Samtliga tekniker som ingår i Taeguek 1-8 samt Poomsae Koryo och Kumgang ska kunna redovisas.
+- **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
+- **Grepptekniker:** 10 st.
+- **Nya sparkar:** -
+- **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
+
+## Stegtekniker {#stegtekniker}
+
+Samtliga stegserier börjar och slutar på samma vis:
+
+- Starta så här: Charyot = givakt, Kyongrye = buga. Jumbi = färdigställning. Den som attackerar går ut i färdigställning åt höger. Den som försvarar går ut i färdigställning åt vänster. Shi jak = starta.
+- Utför vald/valda stegserier.
+- Avsluta så här: Keuman = avsluta. Avsluta i färdigställning (jumbi) mot varandra, den som attackerat tar ett steg ihop mot vänster ben och försvararen tar ett steg ihop mot höger ben. Charyot = givakt, kyongrye = buga.
+
+{: .post-nav}
+[3-steg](#sa-bon)
+[2-steg](#to-bon)
+[1-steg](#han-bon)
+### 3-stegs tekniker / Sa-bon Kyorugi {#sa-bon}
+
+Här tränar man mot en motståndare. Motståndaren attackerar och man tar ett steg bakåt och blockerar. Detta upprepas tills attackeraren gjort tre slag eller sparkar. Efter tredje slaget eller sparken kontrar man och kampen är över. Observera filosofin: Han anfaller mig men jag ger honom tre chanser innan jag försvarar mig. Sa-bon Kyorugi tränas av elever så dessa lärs sig att behärska blockeringarna samt att de lärs sig filosofin.
+
+#### 3-steg #1
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg med höger slag mot ansikte, fram i långt steg med vänster slag mot ansikte, fram i långt steg med höger slag mot ansikte.
+- **Försvar:** Backa med långt steg med höger blockera ovanför med vänster, backa i långt steg blockera ovanför med höger, backa i långt steg blockera ovanför med vänster.
+- **Avsluta:** Ta tag om handleden med vänster hand och dra armen mot din vänstra sida och slag där ansiktet var, med ki hap.
+
+#### 3-steg #2
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg med höger slag mot ansiktet, fram i långt steg och vänster slag mot ansiktet, fram i långt steg och höger slag mot ansiktet.
+- **Försvar:** Backa med långt steg med höger blockera ovanför med vänster, backa i långt steg blockera ovanför med höger, backa i långt steg blockera ovanför med vänster.
+- **Avsluta:** Ap chagi (framåtspark) med trampdynan, med ki hap.
+
+#### 3-steg #3
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg med höger slag mot ansikte, fram i långt steg vänster slag mot ansiktet, fram i långt steg höger slag mot ansiktet.
+- **Försvar:** Backa med långt steg med höger blockera ovanför med vänster, backa i långt steg blockera ovanför med höger, backa i långt steg blockera ovanför med vänster.
+- **Avsluta:** Ta handleden med vänster hand dra den mot dig gå fram med höger sida slag med knivhand mot nacken, med ki hap.
+
+#### 3-steg #4
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot ansikte, fram i långt steg vänster slag mot ansikte, fram i långt steg höger slag mot ansikte.
+- **Försvar:** Backa med långt steg med vänster blockera ovanför med höger, backa med långt steg blockera ovanför med vänster, backa med långt steg blockera ovanför med höger.
+- **Avsluta:** Ta tag om handleden med höger hand, tryck ner armbågen med vänster hand gå fram och armbåga i ryggen, med ki hap.
+
+#### 3-steg #5
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg med höger slag mot solarplexus, fram i långt steg med vänster slag mot solarplexus, fram i långt steg med höger slag mot solarplexus.
+- **Försvar:** Backa med vänster i L-ställning och blockera inåt med höger, backa med höger i L-ställning och blockera inåt med vänster, backa med vänster i L-ställning och blockera inåt med höger.
+- **Avsluta:** Ta tag om handleden med höger hand vrid den uppåt utåt tryck ner axeln med vänster hand sen fram långt steg knäa i axel/armhåla, med ki hap.
+
+#### 3-steg #6
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg med höger slag mot solarplexus, fram i långt steg med vänster slag mot solarplexus, fram i långt steg med höger slag mot solarplexus.
+- **Försvar:** Backa med höger i L-ställning och blockera inåt med vänster, backa med vänster i L-ställning blockera inåt med höger, backa med höger i L-ställning blockera inåt med vänster.
+- **Avsluta:** Kort steg bak med vänster höger yop chagi (sidspark), med ki hap.
+
+### 2-stegs tekniker / To-bon Kyorugi {#to-bon}
+
+Detta moment är samma som Sa-bon Kyorugi fast man ger anfallaren två chanser innan man försvarar sig. Detta moment tränas av mer rutinerade elever som har större mental mognad än nybörjar eleverna.
+
+#### 2-steg #1
+
+- **Attack:** Backa med höger i långt steg med vänster nedanför blockering, gå fram med höger slag mot solarplexus därefter vänster ap chagi (framåtspark) med trampdynan mot mage.
+- **Försvar:** Backa med höger i L-ställning blockera inåt med knivhänder åt vänster, därefter backa med vänster i L-ställning blockera inåt med knivhänder åt höger.
+- **Avsluta:** Flytta höger ben till långt steg höger deung jumeok (knogslag) mot näsbenet, med ki hap.
+
+#### 2-steg #2
+
+- **Attack:** Backa med höger i långt steg vänster nedanför blockering, gå fram med höger slag mot solarplexus sen vänster dollyo chagi (rundspark) mot magen.
+- **Försvar:** Backa med höger i L-ställning blockera inåt med vänster sen backa med vänster i L-ställning blockera utåt med höger.
+- **Avsluta:** Backa med höger i kort steg och sparka antingen
+  - vänster dollyo chagi (rundspark) med tårna, med ki hap.
+  - vänster dollyo chagi (rundspark) med fotens framsida mot huvud, med ki hap.
+
+#### 2-steg #3
+
+- **Attack:** backa i långt steg med höger nedanför blockering med vänster, gå fram med höger långt steg och höger slag med knivhand inåt mot nacken därefter dwi chagi (bakåtspark) med vänster landa framåt i långt steg.
+- **Försvar:** vänster långt steg bak blockera med höger snett ovanför utåt glid ett steg rakt bak och blockera/slå ned med höger öppen hand.
+- **Avsluta** med vänster ap dollyo chagi (framåt rundspark) med tårna sen vänster dollyo chagi (rundspark) mot huvudet, med ki hap alternativt väljer du en av de två sparkarna.
+
+#### 2-steg #4
+
+- **Attack:** backa i kort steg med höger i traditionell kampställning med knytna nävar, sparka en höger ap dollyo chagi (framåt-rundspark) och landa i långt steg fram med höger slag mot ansiktet.
+- **Försvar:** Backa med höger i långt steg blockera snett nedåt till vänster om eget främre knä med två händer ovanpå varann sen blockera vänster ovanför och stå kvar sen backa upp i kort ställning med vänster (höger ben står kvar).
+- **Avsluta:** höger ap dollyo chagi (rundspark) med tårna sen höger dollyo chagi (rundspark) mot huvud med fotens framsida, med ki hap alternativt väljer du en av de två sparkarna.
+
+#### 2-steg #5
+
+- **Attack:** backa i kort steg med höger i traditionell kampställning med knytna nävar, fram med höger ap chagi (framåtspark) sen ta steg fram i korsställning med stamp med höger deung jumeok (knogslag) mot näsbenet.
+- **Försvar:** Backa med vänster ben i L-ställning blockera inåt med höger backa sen med höger i lång ställning blockera med korsade raka armar med knytnävar ovanför huvudet.
+
+- **Avsluta** håll kvar blockering höger ap chagi (framåtspark) mellan benen, med ki hap.
+
+#### 2-steg #6
+
+- **Attack:** backa med höger i kort steg i traditionell kampställning med knytna nävar sen höger ap dollyo chagi (framåt-rundspark) landa med höger knivhandsslag mot nacken i långt steg.
+- **Försvar:** Backa med vänster ben i L-ställning blockera höger inåt sen höger snett ovan utåt omvandla till lång ställning med höger fot kvar.
+- **Avsluta:** Ta tag om handled och arm och sparka vänster horyo chagi (krokspark) mot sidan av huvudet, med ki hap.
+
+### 1-stegs tekniker / Han-bon Kyorugi {#han-bon}
+
+Det är sista steget i detta träningsmoment. Han-bon Kyorugi tränas av avancerade elever som vet och kan avgöra när de ska försvara sig. Nu ska utövaren uppnått en mental styrka och mognad samt inneha bra tekniker.
+
+#### 1-steg #1
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot solarplexus.
+- **Försvar:** Gå ut åt vänster i ridställning blockera mot armbågen med vänster öppen knivhand inåt (rakt åt höger).
+- **Avsluta:** På vänster sida med höger slag först mot magen sen vänster slag mot solarplexus sen höger slag mot ansiktet, med ki hap.
+
+#### 1-steg #2
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot solarplexus.
+- **Försvar:** Gå ut åt vänster i ridställning blockera med höger utåt med öppen knivhand.
+- **Avsluta:** Ta tag i handleden luta ut åt vänster sparka antingen
+  - höger dollyo chagi (rundspark) med tårna mot magen, med ki hap.
+  - höger dollyo chagi (rundspark) med fotens ovansida mot huvud, med ki hap.
+
+#### 1-steg #3
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg och höger slag mot solarplexus.
+- **Försvar:** Backa med vänster fot i L-ställning blockera inåt med höger.
+- **Avsluta** Med vänster knytnäve i höger knytnäve snurra in med ryggen mot, armbåga med vänstern mot solarplexus, med ki hap.
+
+#### 1-steg #4
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot solarplexus.
+- **Försvar:** Backa med höger ett kort steg blockera utåt med vänster fot.
+- **Avsluta:** Antingen
+  - höger dollyo chagi (rundspark) med fotens framsida mot huvudet, med ki hap.
+  - höger dollyo chagi (rundspark) mot solarplexus med tårna, med ki hap. (ev. ta tag i hand/arm som stöd.)
+
+#### 1-steg #5
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot solarplexus.
+- **Försvar:** Backa med vänster i kort steg blockera med höger fot inåt (framåt krokspark).
+- **Avsluta:** Utan att sätta ned foten höger yop chagi (sidspark), med ki hap.
+
+#### 1-steg #6
+
+- **Attack:** Nedanför blockering med vänster långt steg bak med höger, fram i långt steg höger slag mot solarplexus.
+- **Försvar:** Backa med vänster i kort steg blockera med höger fot inåt.
+- **Avsluta:** Sätt ned foten ett steg bak sen med vänster mom dollyo chagi (roterande krokspark) mot huvud, med ki hap.
