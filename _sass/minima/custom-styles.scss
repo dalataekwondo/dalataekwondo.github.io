@@ -126,6 +126,11 @@ blockquote.puff {
     box-sizing: border-box;
 }
 
+.belt-color.thin {
+    margin-block: -.5rem .2rem;
+    height: .8rem;
+}
+
 .belt-color * {
     display: block;
     width: 3px;

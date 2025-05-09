@@ -27,121 +27,124 @@ Du kan läsa om detta under fliken [Taekwondo](/taekwondo).
 
 ### Gult bälte - 9 Gup {#gup9}
 
-- **Ställningar:** Charyot, Kyongrye, Jumbi, Juchum seogi, Baro, Bal chagi jumbi, Bal pako, Dirro dorra.
-- **Blockeringar:** Are makgi, Momtong an makgi, Momtong bakkat makgi, Olgul makgi.
-- **Sparkar:** Ap chagi, Ap dollyo chagi, Miro chagi, Neryo chagi.
-- **Krosstekniker:** Miro chagi / Neryo chagi.
+<b class="thin belt-color yellow"></b>
+**Ställningar:** Charyot, Kyongrye, Jumbi, Juchum seogi, Baro, Bal chagi jumbi, Bal pako, Dirro dorra.  
+**Blockeringar:** Are makgi, Momtong an makgi, Momtong bakkat makgi, Olgul makgi.  
+**Sparkar:** Ap chagi, Ap dollyo chagi, Miro chagi, Neryo chagi.  
+**Krosstekniker:** Miro chagi / Neryo chagi.
 
 ### Grönt bälte - 8 Gup {#gup8}
 
-- **Obligatorisk Taegeuk:** Il Jang. (1)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 1 jang.
-- **Stegssparringar:** 2 st. 3-steg
-- **Greppteknik:** 1 st.
-- **Nya sparkar:** Dollyo chagi, Yop chagi.
-- **Krosstekniker:** Yop chagi
+<b class="thin belt-color green"></b>
+**Obligatorisk Taegeuk:** Il Jang. (1)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 1 jang.  
+**Stegssparringar:** 2 st. 3-steg  
+**Nya sparkar:** Dollyo chagi, Yop chagi.  
+**Krosstekniker:** Yop chagi
 
 ### Grönt/blått bälte - 7 Gup {#gup7}
 
-- **Obligatorisk Taegeuk:** Il Jang. (2)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 2 Jang.
-- **Stegssparringar:** 4 st. 3-steg.
-- **Greppteknik:** 2 st.
-- **Nya sparkar:** Dwi chagi.
-- **Krosstekniker:** Dwi chagi.
+<b class="thin belt-color green"><i/></b>
+**Obligatorisk Taegeuk:** Il Jang. (2)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 2 Jang.  
+**Stegssparringar:** 4 st. 3-steg.  
+**Nya sparkar:** Dwi chagi.  
+**Krosstekniker:** Dwi chagi.
 
 ### Blått bälte - 6 Gup {#gup6}
 
-- **Obligatorisk Taegeuk:** Sam Jang. (3)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 3 Jang.
-- **Stegssparringar:** 6 st. 3-steg.
-- **Greppteknik:** 3 st.
-- **Nya sparkar:** Twio dwi chagi.
-- **Krosstekniker:** Twio dwi chagi.
+<b class="thin belt-color blue"></b>
+**Obligatorisk Taegeuk:** Sam Jang. (3)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 3 Jang.  
+**Stegssparringar:** 6 st. 3-steg.  
+**Nya sparkar:** Twio dwi chagi.  
+**Krosstekniker:** Twio dwi chagi.
 
 ### Blått bälte / rött streck - 5 Gup {#gup5}
 
-- **Obligatorisk Taegeuk:** Sa Jang. (4)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 4 Jang.
-- **Stegssparringar:** 2 st. 2-steg, 6 st. 3-steg.
-- **Greppteknik:** 4 st.
-- **Nya sparkar:** Mom dollyo chagi.
-- **Krosstekniker:** Mom dollyo chagi.
+<b class="thin belt-color blue"><i/></b>
+**Obligatorisk Taegeuk:** Sa Jang. (4)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 4 Jang.  
+**Stegssparringar:** 2 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** Mom dollyo chagi.  
+**Krosstekniker:** Mom dollyo chagi.
 
 ### Rött bälte - 4 Gup {#gup4}
 
-- **Obligatorisk Taegeuk:** Oh Jang. (5)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 5 Jang.
-- **Stegssparringar:** 4 st. 2-steg, 6 st. 3-steg.
-- **Greppteknik:** 5 st.
-- **Nya sparkar:** Twio mom dollyo chagi, Twio ap chagi.
-- **Krosstekniker:** Twio mom dollyo chagi / Twio ap chagi.
+<b class="thin belt-color red"></b>
+**Obligatorisk Taegeuk:** Oh Jang. (5)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 5 Jang.  
+**Stegssparringar:** 4 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** Twio mom dollyo chagi, Twio ap chagi.  
+**Krosstekniker:** Twio mom dollyo chagi / Twio ap chagi.
 
 ### Rött bälte / ett svart streck - 3 Gup {#gup3}
 
-- **Obligatorisk Taeguk:** Yuk Jang. (6)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 6 Jang.
-- **Stegssparringar:** 6 st. 2-steg, 6 st. 3-steg.
-- **Greppteknik:** 6 st.
-- **Nya sparkar:** Pyojok chagi.
-- **Krosstekniker:** Twio dollyo chagi / Tornado twio dollyo chagi.
+<b class="thin belt-color red"><i/></b>
+**Obligatorisk Taeguk:** Yuk Jang. (6)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 6 Jang.  
+**Stegssparringar:** 6 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** Pyojok chagi.  
+**Krosstekniker:** Twio dollyo chagi / Tornado twio dollyo chagi.
 
 ### Rött bälte / två svarta streck - 2 Gup {#gup2}
 
-- **Obligatorisk Taeguk:** Chil Jang. (7)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 7 Jang.
-- **Stegssparringar:** 2 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
-- **Greppteknik:** 7 st.
-- **Nya sparkar:** -
-- **Krosstekniker:** Twio mom dollyo chagi.
+<b class="thin belt-color red"><i/><i/></b>
+**Obligatorisk Taeguk:** Chil Jang. (7)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 7 Jang.  
+**Stegssparringar:** 2 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** -  
+**Krosstekniker:** Twio mom dollyo chagi.
 
 ### Rött bälte / tre svarta streck - 1 Gup {#gup1}
 
-- **Obligatorisk Taeguk:** Pal Jang. (8)
-  - Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 8 Jang.
-- **Stegssparringar:** 4 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
-- **Greppteknik:** 8 st.
-- **Nya sparkar:** Twio yop chagi.
-- **Krosstekniker:** Twio yop chagi.
+<b class="thin belt-color red"><i/><i/><i/></b>
+**Obligatorisk Taeguk:** Pal Jang. (8)  
+Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 8 Jang.  
+**Stegssparringar:** 4 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** Twio yop chagi.  
+**Krosstekniker:** Twio yop chagi.
 
 ## Dan-grader {#dan}
 
 ### 1 Dan
 
-- **Obligatorisk Poomsae:** Koryo.
-- **Obligatorisk Taeguk:** Pal Jang.
-- **En frivillig Taeguk:** Får väljas mellan 1-7.
-- **Ett överraskning Taeguek:** Kommer frågas mellan 1-7.
-- Samtliga tekniker som ingår i Taeguek 1-8 och Poomsae Koryo ska kunna redovisas.
-- **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
-- **Grepptekniker:** 9 st.
-- **Nya sparkar:** -
-- **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
+<b class="thin belt-color black"><i/></b>
+**Obligatorisk Poomsae:** Koryo.  
+**Obligatorisk Taeguk:** Pal Jang.  
+**En frivillig Taeguk:** Får väljas mellan 1-7.  
+**Ett överraskning Taegeuk:** Kommer frågas mellan 1-7.  
+Samtliga tekniker som ingår i Taegeuk 1-8 och Poomsae Koryo ska kunna redovisas.  
+**Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** -  
+**Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
 
 ### 2 Dan
 
-- **Obligatoriska Poomsae:** Koryo och Kumgang.
-- **Obligatorisk Taeguek:** Pal Jang.
-- **En Frivillig Taeguek:** Får väljas mellan 1-8.
-- **Ett överraskning Taeguek:** Kommer frågas mellan 1-8.
-- Samtliga tekniker som ingår i Taeguek 1-8 samt Poomsae Koryo och Kumgang ska kunna redovisas.
-- **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.
-- **Grepptekniker:** 10 st.
-- **Nya sparkar:** -
-- **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
+<b class="thin belt-color black"><i/><i/></b>
+**Obligatoriska Poomsae:** Koryo och Keumgang.  
+**Obligatorisk Taegeuk:** Pal Jang.  
+**En Frivillig Taegeuk:** Får väljas mellan 1-7.  
+**Ett överraskning Taegeuk:** Kommer frågas mellan 1-7.  
+Samtliga tekniker som ingår i Taegeuk 1-8 samt Poomsae Koryo och Keumgang ska kunna redovisas.  
+**Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
+**Nya sparkar:** -  
+**Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
 
 ## Stegtekniker {#stegtekniker}
-
-Samtliga stegserier börjar och slutar på samma vis:
-
-- Starta så här: Charyot = givakt, Kyongrye = buga. Jumbi = färdigställning. Den som attackerar går ut i färdigställning åt höger. Den som försvarar går ut i färdigställning åt vänster. Shi jak = starta.
-- Utför vald/valda stegserier.
-- Avsluta så här: Keuman = avsluta. Avsluta i färdigställning (jumbi) mot varandra, den som attackerat tar ett steg ihop mot vänster ben och försvararen tar ett steg ihop mot höger ben. Charyot = givakt, kyongrye = buga.
 
 {: .post-nav}
 [3-steg](#sa-bon)
 [2-steg](#to-bon)
 [1-steg](#han-bon)
+
+Samtliga stegserier börjar och slutar på samma vis:
+
+**Starta så här:** Charyot (givakt), Kyongrye (buga), Jumbi (färdigställning). Den som attackerar går ut i färdigställning åt höger, den som försvarar går ut i färdigställning åt vänster. Shi jak (starta).
+
+**Avsluta så här:** Keuman (avsluta). Avsluta i jumbi (färdigställning) mot varandra, den som attackerat tar ett steg ihop mot vänster ben och försvararen tar ett steg ihop mot höger ben. Charyot (givakt), kyongrye (buga).
+
+
 ### 3-stegs tekniker / Sa-bon Kyorugi {#sa-bon}
 
 Här tränar man mot en motståndare. Motståndaren attackerar och man tar ett steg bakåt och blockerar. Detta upprepas tills attackeraren gjort tre slag eller sparkar. Efter tredje slaget eller sparken kontrar man och kampen är över. Observera filosofin: Han anfaller mig men jag ger honom tre chanser innan jag försvarar mig. Sa-bon Kyorugi tränas av elever så dessa lärs sig att behärska blockeringarna samt att de lärs sig filosofin.
@@ -216,7 +219,6 @@ Detta moment är samma som Sa-bon Kyorugi fast man ger anfallaren två chanser i
 
 - **Attack:** backa i kort steg med höger i traditionell kampställning med knytna nävar, fram med höger ap chagi (framåtspark) sen ta steg fram i korsställning med stamp med höger deung jumeok (knogslag) mot näsbenet.
 - **Försvar:** Backa med vänster ben i L-ställning blockera inåt med höger backa sen med höger i lång ställning blockera med korsade raka armar med knytnävar ovanför huvudet.
-
 - **Avsluta** håll kvar blockering höger ap chagi (framåtspark) mellan benen, med ki hap.
 
 #### 2-steg #6
