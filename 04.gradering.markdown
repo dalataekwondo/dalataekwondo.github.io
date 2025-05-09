@@ -94,7 +94,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 6 Jang.
 **Obligatorisk Taeguk:** Chil Jang. (7)  
 Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 7 Jang.  
 **Stegssparringar:** 2 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
-**Nya sparkar:** -  
+**Nya sparkar:** &mdash;  
 **Krosstekniker:** Twio mom dollyo chagi.
 
 ### 1 Gup &ndash; Rött bälte / tre svarta streck {#gup1}
@@ -113,11 +113,11 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 8 Jang.
 <b class="thin belt-color black"><i/></b>
 **Obligatorisk Poomsae:** Koryo.  
 **Obligatorisk Taeguk:** Pal Jang.  
-**En frivillig Taeguk:** Får väljas mellan 1-7.  
-**Ett överraskning Taegeuk:** Kommer frågas mellan 1-7.  
+**En valfri Taeguk:** Får väljas mellan 1-7.  
+**En överrasknings-Taegeuk:** Kommer frågas mellan 1-7.  
 Samtliga tekniker som ingår i Taegeuk 1-8 och Poomsae Koryo ska kunna redovisas.  
 **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
-**Nya sparkar:** -  
+**Nya sparkar:** &mdash;  
 **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
 
 ### 2 Dan
@@ -125,11 +125,11 @@ Samtliga tekniker som ingår i Taegeuk 1-8 och Poomsae Koryo ska kunna redovisas
 <b class="thin belt-color black"><i/><i/></b>
 **Obligatoriska Poomsae:** Koryo och Keumgang.  
 **Obligatorisk Taegeuk:** Pal Jang.  
-**En Frivillig Taegeuk:** Får väljas mellan 1-7.  
-**Ett överraskning Taegeuk:** Kommer frågas mellan 1-7.  
+**En valfri Taegeuk:** Får väljas mellan 1-7.  
+**En överrasknings-Taegeuk:** Kommer frågas mellan 1-7.  
 Samtliga tekniker som ingår i Taegeuk 1-8 samt Poomsae Koryo och Keumgang ska kunna redovisas.  
 **Stegssparringar:** 6 st. 1-steg, 6 st. 2-steg, 6 st. 3-steg.  
-**Nya sparkar:** -  
+**Nya sparkar:** &mdash;  
 **Krosstekniker:** Twio mom dollyo chagi, Twio yop chagi, Twio ap chagi, Sonnal mok chigi.
 
 ## Stegtekniker {#stegtekniker}
