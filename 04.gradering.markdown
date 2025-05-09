@@ -12,7 +12,7 @@ permalink: /gradering/
 
 ## Teori {#teori}
 
-För samtliga grader ska du kunna följade teori:
+För samtliga grader ska du kunna följande teori:
 
 - Klubbens ed.
 - Vad är Taekwondo?
@@ -20,13 +20,13 @@ För samtliga grader ska du kunna följade teori:
 - Vad är den moderna Taekwondon?
 - Vad är syftet med 3-1 stegstekniker?
 - Vad är de olika bältesfärgernas betydelse? 
-  - Detta gäller både de färger du har haft och de du graderar till.
+  - Detta gäller samtliga färger du uppnått och den du graderar till.
 
 Du kan läsa om detta under fliken [Taekwondo](/taekwondo).
 
 ## Elevgrader {#gup}
 
-### Gult bälte - 9 Gup {#gup9}
+### 9 Gup &ndash; Gult bälte {#gup9}
 
 <b class="thin belt-color yellow"></b>
 **Ställningar:** Charyot, Kyongrye, Jumbi, Juchum seogi, Baro, Bal chagi jumbi, Bal pako, Dirro dorra.  
@@ -34,7 +34,7 @@ Du kan läsa om detta under fliken [Taekwondo](/taekwondo).
 **Sparkar:** Ap chagi, Ap dollyo chagi, Miro chagi, Neryo chagi.  
 **Krosstekniker:** Miro chagi / Neryo chagi.
 
-### Grönt bälte - 8 Gup {#gup8}
+### 8 Gup &ndash; Grönt bälte {#gup8}
 
 <b class="thin belt-color green"></b>
 **Obligatorisk Taegeuk:** Il Jang. (1)  
@@ -43,7 +43,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 1 jang.
 **Nya sparkar:** Dollyo chagi, Yop chagi.  
 **Krosstekniker:** Yop chagi
 
-### Grönt/blått bälte - 7 Gup {#gup7}
+### 7 Gup &ndash; Grönt/blått bälte {#gup7}
 
 <b class="thin belt-color green"><i/></b>
 **Obligatorisk Taegeuk:** Il Jang. (2)  
@@ -52,7 +52,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 2 Jang.
 **Nya sparkar:** Dwi chagi.  
 **Krosstekniker:** Dwi chagi.
 
-### Blått bälte - 6 Gup {#gup6}
+### 6 Gup &ndash; Blått bälte {#gup6}
 
 <b class="thin belt-color blue"></b>
 **Obligatorisk Taegeuk:** Sam Jang. (3)  
@@ -61,7 +61,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 3 Jang.
 **Nya sparkar:** Twio dwi chagi.  
 **Krosstekniker:** Twio dwi chagi.
 
-### Blått bälte / rött streck - 5 Gup {#gup5}
+### 5 Gup &ndash; Blått bälte / rött streck {#gup5}
 
 <b class="thin belt-color blue"><i/></b>
 **Obligatorisk Taegeuk:** Sa Jang. (4)  
@@ -70,7 +70,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 4 Jang.
 **Nya sparkar:** Mom dollyo chagi.  
 **Krosstekniker:** Mom dollyo chagi.
 
-### Rött bälte - 4 Gup {#gup4}
+### 4 Gup &ndash; Rött bälte {#gup4}
 
 <b class="thin belt-color red"></b>
 **Obligatorisk Taegeuk:** Oh Jang. (5)  
@@ -79,7 +79,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taegeuk 5 Jang.
 **Nya sparkar:** Twio mom dollyo chagi, Twio ap chagi.  
 **Krosstekniker:** Twio mom dollyo chagi / Twio ap chagi.
 
-### Rött bälte / ett svart streck - 3 Gup {#gup3}
+### 3 Gup &ndash; Rött bälte / ett svart streck {#gup3}
 
 <b class="thin belt-color red"><i/></b>
 **Obligatorisk Taeguk:** Yuk Jang. (6)  
@@ -88,7 +88,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 6 Jang.
 **Nya sparkar:** Pyojok chagi.  
 **Krosstekniker:** Twio dollyo chagi / Tornado twio dollyo chagi.
 
-### Rött bälte / två svarta streck - 2 Gup {#gup2}
+### 2 Gup &ndash; Rött bälte / två svarta streck {#gup2}
 
 <b class="thin belt-color red"><i/><i/></b>
 **Obligatorisk Taeguk:** Chil Jang. (7)  
@@ -97,7 +97,7 @@ Samtliga ställningar, arm- och bentekniker som ingår i Taeguk 7 Jang.
 **Nya sparkar:** -  
 **Krosstekniker:** Twio mom dollyo chagi.
 
-### Rött bälte / tre svarta streck - 1 Gup {#gup1}
+### 1 Gup &ndash; Rött bälte / tre svarta streck {#gup1}
 
 <b class="thin belt-color red"><i/><i/><i/></b>
 **Obligatorisk Taeguk:** Pal Jang. (8)  
