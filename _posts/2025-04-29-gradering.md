@@ -15,7 +15,7 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 ### Graderingsavgift
 
-250 kr/person, vilken kan betalas genom något av följande sätt senast onsdag den 15 maj:
+250 kr/person, vilken kan betalas genom något av följande sätt senast fredag den 9 maj:
 
 - Bankgiro: 801–7543
 - Plusgiro: 922115–1
@@ -47,7 +47,7 @@ Maryam, Linus och Josef.
 
 Teorin ska redovisas tisdagen den 20 maj, samma datum gäller även för genomförande av krosstekniker.
 
-Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 21 maj.
+Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 20 maj.
 
 Övriga grupper ska kunna:
 
@@ -63,4 +63,4 @@ Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed
 
 Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med säsongens sista träning tisdagen den 27 maj.
 
-Varmt välkomna med er anmälan senast onsdag den 9 maj.
+Varmt välkomna med er anmälan senast fredag den 9 maj.
