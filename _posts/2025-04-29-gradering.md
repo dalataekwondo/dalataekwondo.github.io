@@ -23,7 +23,7 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar graderingen får gradera sig på nytt vid ett annat tillfälle utan extra kostnader.
 
-### Schema
+### Färdigställt Schema
 
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca en halvtimme före graderingen för egen uppvärmning.
 
