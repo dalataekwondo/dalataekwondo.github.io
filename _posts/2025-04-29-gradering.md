@@ -45,7 +45,7 @@ Maryam, Linus och Josef.
 
 ### Teori och Krosstekniker
 
-Teori ska redovisas under tisdagen den 19 maj och krosstekniker under tisdagen den 20 maj.
+Teorin ska redovisas tisdagen den 20 maj, samma datum gäller även för genomförande av krosstekniker.
 
 Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 21 maj.
 
