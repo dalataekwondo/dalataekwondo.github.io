@@ -23,21 +23,25 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar graderingen får gradera sig på nytt vid ett annat tillfälle utan extra kostnader.
 
-### Preliminärt Schema
+### Schema
 
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca en halvtimme före graderingen för egen uppvärmning.
 
 kl. 12:00-13:00  
 Barn- och nybörjargruppen 
+Ali, Amar, Jumana, Edith, Elliot, Idman, Isak, Milja, Milo, Moses, Sally, Vincent, Noah, Frans, Melker och Kian.
 
 kl. 13:00-14:00  
 Ungdomsgruppen
+Elsa R, Salka, Elif, Teodor, Elsa N, Moses, Alex, Moa, Natalie, Imran och Ted.
 
 kl. 14:00-15:00  
 Teknikgruppen
+Karin H, Oliver, Bror, Ludwig, Karin N, Elin, Gustaf, Caroline, Niklas och Pernilla.
 
 kl. 15:00-16:00  
 Svartbältarna
+Maryam, Linus och Jusef.
 
 ### Teori och Krosstekniker
 
