@@ -35,7 +35,7 @@ Hösttermin 2025: 19/8 - 19/12
 
 | Dag      | Tid           | Grupp          | Typ                  |
 | -------- | ------------- | -------------- | -------------------- |
-| Måndagar | 17:00 - 18:00 | Ungdomsgrupper | Traditionell träning |
+| Måndagar | 17:00 - 18:30 | Ungdomsgrupper | Traditionell träning |
 | Tisdagar | 18:00 - 19:00 | Ungdomsgrupper | Västträning          |
 | Fredagar | 18:00 - 19:00 | Ungdomsgrupper | Mittsträning         |
 
