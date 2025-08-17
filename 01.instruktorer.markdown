@@ -11,5 +11,6 @@ permalink: /instruktorer/
 | Sabom-nim     | Lallas Sandström | 5 Dan |
 | Sabom-nim     | Maryam Abrishami | 4 Dan |
 | Kyosa-nim     | Henrik Englund   | 3 Dan |
+| Kyosa-nim     | Emmy Strutzenblad| 3 Dan |
 | Kyosa-nim     | Melina Abrishami | 3 Dan |
 | Kyosa-nim     | Kevin Abrishami  | 3 Dan |
