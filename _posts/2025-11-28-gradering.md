@@ -23,7 +23,7 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar graderingen får gradera sig på nytt vid ett annat tillfälle utan extra kostnader.
 
-### Färdigställt Schema
+### Preliminärt Schema
 
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca en halvtimme före graderingen för egen uppvärmning.
 
@@ -43,7 +43,7 @@ Teknikgrupp2
 
 Teorin ska redovisas tisdagen den 16 december, samma datum gäller även för genomförande av krosstekniker.
 
-Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 20 maj.
+Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 16 december.
 
 Övriga grupper ska kunna:
 
@@ -59,4 +59,4 @@ Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed
 
 Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med säsongens sista träning fredagen den 19 december.
 
-Varmt välkomna med er anmälan senast fredag den 9 maj.
+Varmt välkomna med er anmälan senast fredag den 5 december.
