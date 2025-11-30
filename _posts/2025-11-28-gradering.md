@@ -15,7 +15,7 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 ### Graderingsavgift
 
-250 kr/person tom. Gup 1, vilken kan betalas genom något av följande sätt senast fredagen den 9 maj:
+250 kr/person tom. Gup 1, vilken kan betalas genom något av följande sätt senast fredagen den 5 december:
 
 - Bankgiro: 801–7543
 - Plusgiro: 922115–1
