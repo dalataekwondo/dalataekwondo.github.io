@@ -4,7 +4,7 @@ title: Säsongsgradering, HT 2025
 categories: schedule
 ---
 
-### Söndag 14 december kl. 12:00–16:00
+### Söndag 14 december kl. 12:00–15:00
 
 Under de kommande träningarna kommer vi att lägga extra fokus på förberedelser inför graderingen. Det är därför viktigt att delta regelbundet för att vara väl förberedd.
 Observera att Taekwondo-dräkt är obligatorisk vid både gradering och bältesceremoni.
@@ -23,25 +23,22 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar graderingen får gradera sig på nytt vid ett annat tillfälle utan extra kostnader.
 
-### Preliminärt Schema
+### Schema
 
-Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca en halvtimme före graderingen för egen uppvärmning.
+Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca 15 - 30 minuter före graderingen för egen uppvärmning.
 
 kl. 12:00-13:00  
 Barn- och nybörjargruppen
 
 kl. 13:00-14:00  
-Ungdomsgruppen
+Teknikgrupp Ungdom
 
 kl. 14:00-15:00  
-Teknikgrupp1
-
-kl. 15:00-16:00  
-Teknikgrupp2
+Teknikgrupp Vuxen
 
 ### Teori och Krosstekniker
 
-Teorin ska redovisas tisdagen den 16 december, samma datum gäller även för genomförande av krosstekniker.
+Teorin ska redovisas måndagen den 15 december, och genomförandet av krosstekniker sker tisdagen den 16 december.
 
 Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 16 december.
 
@@ -59,4 +56,4 @@ Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed
 
 Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med säsongens sista träning fredagen den 19 december.
 
-Varmt välkomna med er anmälan senast fredag den 5 december.
+Varmt välkomna med er anmälan!
