@@ -4,7 +4,7 @@ title: Intagning av nya medlemmar, Våren 2026
 categories: recruitments
 ---
 
-Intagning av nya medlemmar sker i mån av plats under perioden 13/1 - 13/2 2026, med två veckor gratis prova på-träning!
+Intagning av nya medlemmar sker i mån av plats under perioden 13/1 - 13/3 2026, med två veckor gratis prova på-träning!
 
 Under prova på-veckorna behöver du ingen dräkt; kom bara i vanliga träningsbyxor och T-shirt, och ta gärna med en vattenflaska. Vi tränar barfota på sportmattor.
 
