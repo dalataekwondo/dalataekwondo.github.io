@@ -29,16 +29,19 @@ Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga 
 
 kl. 12:00-13:00  
 Barn- och nybörjargruppen
+Younis, Sways, Safya, Kornelis, Collin, William, Adrian, Wingston och Saher.
 
 kl. 13:00-14:00  
-Teknikgrupp Ungdom
+Teknikgrupp 1
+Salma, Idman, Moses, Salka, Alex, Theodor, Elif, Edith, Milo, Nathalie, Imran, Delal, Elis, Helin, Merker, Frans, Elenor och Jerko.
 
 kl. 14:00-15:00  
-Teknikgrupp Vuxen
+Teknikgrupp 2
+Bror, Karin, Oliver, Ludvig, Elin, Karin N, Caroline, Niklas, Gusav, Pernilla.
 
 ### Teori och Krosstekniker
 
-Teorin ska redovisas på graderingsdagen, och genomförandet av krosstekniker sker tisdagen den 19 maj.
+Den teoretiska delen ska redovisas efter genomförandet av krossteknikerna, vilket äger rum tisdagen den 19 maj.
 
 Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed) som redovisas under tisdagen den 19 maj.
 
