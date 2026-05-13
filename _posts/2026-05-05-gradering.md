@@ -28,15 +28,15 @@ Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar grader
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca 15 - 30 minuter före graderingen för egen uppvärmning.
 
 kl. 12:00-13:00  
-Barn- och nybörjargruppen
+Barn- och nybörjargruppen: 
 Younis, Sways, Safya, Kornelis, Collin, William, Adrian, Wingston och Saher.
 
 kl. 13:00-14:00  
-Teknikgrupp 1
+Teknikgrupp 1: 
 Salma, Idman, Moses, Salka, Alex, Theodor, Elif, Edith, Milo, Nathalie, Imran, Delal, Elis, Helin, Merker, Frans, Elenor och Jerko.
 
 kl. 14:00-15:00  
-Teknikgrupp 2
+Teknikgrupp 2: 
 Bror, Karin, Oliver, Ludvig, Elin, Karin N, Caroline, Niklas, Gusav, Pernilla.
 
 ### Teori och Krosstekniker
