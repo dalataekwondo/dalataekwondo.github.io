@@ -33,7 +33,7 @@ Younis, Sways, Safya, Kornelis, Collin, William, Adrian, Wingston och Saher.
 
 kl. 13:00-14:00  
 Teknikgrupp 1: 
-Salma, Idman, Moses, Salka, Alex, Theodor, Elif, Edith, Milo, Nathalie, Imran, Delal, Elis, Helin, Merker, Frans, Elenor och Jerko.
+Salma, Idman, Moses, Salka, Alex, Theodor, Elif, Edith, Milo, Nathalie, Imran, Delal, Elis, Helin, Merker, Frans, Elionora och Jerko.
 
 kl. 14:00-15:00  
 Teknikgrupp 2: 
