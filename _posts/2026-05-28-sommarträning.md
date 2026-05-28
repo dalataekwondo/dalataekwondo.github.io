@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sommarträning
+title: Sommarträning 2/6 - 12/8
 categories: schedule
 ---
 
