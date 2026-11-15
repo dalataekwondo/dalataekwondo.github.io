@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🎉 Dala Taekwondo Akademi fyller 30 år 🎉
+title: Dala Taekwondo Akademi fyller 30 år 🎉
 categories: schedule
 ---
 
