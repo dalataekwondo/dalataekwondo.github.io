@@ -11,4 +11,5 @@ Jag är stolt, tacksam och glad över alla människor som varit en del av vår r
 Låt oss fortsätta resan tillsammans och skapa många nya minnen framöver.
 
 ❤️ Tack för 30 fantastiska år 👊
+
 Kwan jang-nim Reza Abrishami
