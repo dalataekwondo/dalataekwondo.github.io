@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Uppehåll under Höstlovet v.44 
+title: 🎉 Dala Taekwondo Akademi fyller 30 år idag! 🎉
 categories: schedule
 ---
-
-🎉 Dala Taekwondo Akademi fyller 30 år idag! 🎉
 
 Den 14 november 1996 grundade jag föreningen. Det känns nästan ofattbart att det har gått 30 år.
 
@@ -12,4 +10,4 @@ Jag är stolt, tacksam och glad över alla människor som varit en del av vår r
 
 Låt oss fortsätta resan tillsammans och skapa många nya minnen framöver.
 
-❤️ Tack för 30 fantastiska år! 👊
+❤️ Tack för 30 fantastiska år 👊
