@@ -15,7 +15,7 @@ Medlemmar som har haft minst 70 % närvaro under terminen, har betalat medlems- 
 
 ### Graderingsavgift
 
-300 kr/person tom. Gup 1, vilken kan betalas genom något av följande sätt senast fredagen den 27 november:
+250 kr/person tom. Gup 1, vilken kan betalas genom något av följande sätt senast fredagen den 20 november:
 
 - Bankgiro: 801–7543
 - Plusgiro: 922115–1
@@ -28,10 +28,10 @@ Som meddelande ange namnet på medlemmen i fråga. Medlem som inte klarar grader
 Anmälda till graderingen i barngrupper ska vara ombytta till kl 12:00. Övriga anmälda ska vara ombytta ca 15 - 30 minuter före graderingen för egen uppvärmning.
 
 kl. 12:00-13:00  
-Barngruppen 
+Barn- och nybörjargrupper 
 
 kl. 13:00-14:00  
-Nybörjargruppen
+Barngrupp färgbältare
 
 kl. 14:00-15:00  
 Teknikgrupp 1
@@ -60,6 +60,6 @@ Barngrupper bör endast kunna [Dala Taekwondo elevens ed](/taekwondo#klubbens-ed
 
 ### Bältesceremonin
 
-Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med träning fredagen den 11 december.
+Bältesceremonin för samtliga medlemmar som klarar graderingen sker under ordinarie träningstider och i samband med säsongens sista träning fredagen den 18 december.
 
 Varmt välkomna med er anmälan!
